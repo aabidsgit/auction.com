@@ -19,7 +19,7 @@ occupancy = st.selectbox("Occupancy", ["vacant", "tenant"])
 auction_type = st.selectbox("Auction Type", ["online", "live"])
 
 # --- Load Data ---
-df = pd.read_csv("mock_auction_data.csv")
+df = pd.read_csv("ca_auction_data_100k.csv")
 
 # --- Flexible Matching Logic ---
 comps = df[
