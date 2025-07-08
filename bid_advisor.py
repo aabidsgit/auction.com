@@ -1,0 +1,63 @@
+import streamlit as st
+import pandas as pd
+import openai
+import os
+
+# Set your OpenAI key via environment variable or hardcode (not recommended)
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
+st.title("🏡 Auction Bid Advisor (MVP)")
+st.write("Enter property details to get a smart bid estimate based on historical auction data.")
+
+# --- User Inputs ---
+zip_code = st.text_input("ZIP Code")
+starting_bid = st.number_input("Starting Bid ($)", step=1000)
+beds = st.number_input("Beds", step=1)
+baths = st.number_input("Baths", step=1)
+condition = st.selectbox("Condition", ["poor", "average", "good"])
+occupancy = st.selectbox("Occupancy", ["vacant", "tenant"])
+auction_type = st.selectbox("Auction Type", ["online", "live"])
+
+# --- Load Data ---
+df = pd.read_csv("mock_auction_data.csv")
+
+# --- Filter Similar Properties ---
+comps = df[df['zip'] == zip_code]
+comps = comps[comps['beds'] == beds]
+comps = comps[comps['condition'] == condition]
+
+if st.button("Estimate Bid Range"):
+    if comps.empty:
+        st.warning("No similar properties found. Try adjusting the filters.")
+    else:
+        # Create prompt
+        prompt = f"""
+You are a Bid Advisor AI trained on historical foreclosure and auction data.
+
+A user is considering bidding on a property with:
+- ZIP: {zip_code}
+- Beds: {beds}
+- Baths: {baths}
+- Condition: {condition}
+- Starting Bid: ${starting_bid}
+- Occupancy: {occupancy}
+- Auction Type: {auction_type}
+
+Here are some similar past properties:
+{comps.head(5).to_string(index=False)}
+
+Based on this data, recommend a smart bid range (low to high estimate) for this property and provide a brief 2-line rationale.
+        """
+
+        # --- Call OpenAI ---
+        try:
+            response = openai.ChatCompletion.create(
+                model="gpt-4",
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.7
+            )
+
+            answer = response['choices'][0]['message']['content']
+            st.success(answer)
+        except Exception as e:
+            st.error(f"OpenAI API call failed: {e}")
