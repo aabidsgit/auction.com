@@ -1,29 +1,29 @@
-# Python bytecode
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Environment files
+# Environment variables
 .env
 *.env
 
-# Data and local files
+# Databases or temp files
 *.db
 *.sqlite3
-.DS_Store
 
-# OS-specific
+# macOS and Windows clutter
+.DS_Store
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Jupyter and notebook check files (optional)
+# Jupyter & notebooks
 .ipynb_checkpoints/
 
 # Virtual environments
 venv/
 .envrc
 
-# Streamlit-specific (if deploying)
+# Streamlit secrets
 .streamlit/secrets.toml
