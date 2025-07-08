@@ -4,7 +4,9 @@ import openai
 import os
 
 # Set your OpenAI API key
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# openai.api_key = os.getenv("OPENAI_API_KEY")
+from dotenv import load_dotenv
+load_dotenv()
 
 st.title("🏡 Auction Bid Advisor (MVP)")
 st.write("Enter property details to get a smart bid estimate based on historical auction data.")
