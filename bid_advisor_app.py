@@ -3,7 +3,7 @@ import pandas as pd
 import openai
 import os
 
-# Set your OpenAI key via environment variable or hardcode (not recommended)
+# Set your OpenAI API key
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 st.title("🏡 Auction Bid Advisor (MVP)")
@@ -21,16 +21,26 @@ auction_type = st.selectbox("Auction Type", ["online", "live"])
 # --- Load Data ---
 df = pd.read_csv("mock_auction_data.csv")
 
-# --- Filter Similar Properties ---
-comps = df[df['zip'] == zip_code]
-comps = comps[comps['beds'] == beds]
-comps = comps[comps['condition'] == condition]
+# --- Flexible Matching Logic ---
+comps = df[
+    (df['zip'] == zip_code) &
+    (abs(df['beds'] - beds) <= 1) &
+    (df['condition'].isin([condition, 'average']))
+]
 
+# Fallback: no ZIP match, but similar beds and condition
+if comps.empty:
+    comps = df[
+        (abs(df['beds'] - beds) <= 1) &
+        (df['condition'].isin([condition, 'average']))
+    ]
+
+# --- Trigger on Button Click ---
 if st.button("Estimate Bid Range"):
     if comps.empty:
-        st.warning("No similar properties found. Try adjusting the filters.")
+        st.warning("Still no similar properties found. Try changing inputs.")
     else:
-        # Create prompt
+        # Create prompt for GPT-4
         prompt = f"""
 You are a Bid Advisor AI trained on historical foreclosure and auction data.
 
@@ -49,7 +59,7 @@ Here are some similar past properties:
 Based on this data, recommend a smart bid range (low to high estimate) for this property and provide a brief 2-line rationale.
         """
 
-        # --- Call OpenAI ---
+        # --- Call OpenAI API ---
         try:
             response = openai.ChatCompletion.create(
                 model="gpt-4",
@@ -59,5 +69,6 @@ Based on this data, recommend a smart bid range (low to high estimate) for this 
 
             answer = response['choices'][0]['message']['content']
             st.success(answer)
+
         except Exception as e:
             st.error(f"OpenAI API call failed: {e}")
