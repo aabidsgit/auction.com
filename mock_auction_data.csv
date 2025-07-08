@@ -1,0 +1,1001 @@
+property_id,zip,state,auction_type,starting_bid,final_bid,beds,baths,sqft,year_built,condition,property_type,occupancy,foreclosure_stage,days_on_market,winning_bidder_type
+1,32471,NC,live,579369,769033,3,4,2859,1993,good,townhome,tenant,pre-foreclosure,92,investor
+2,76482,FL,live,75136,99260,3,1,3126,1969,average,condo,tenant,pre-foreclosure,98,individual
+3,12595,NV,live,349897,409391,2,2,2203,2002,good,townhome,vacant,auction day,72,individual
+4,44332,GA,live,421014,459892,5,2,1568,2003,average,condo,tenant,auction day,29,individual
+5,14586,NC,live,765806,840911,5,1,2913,1989,good,SFH,tenant,pre-foreclosure,119,individual
+6,92403,NV,live,620093,755849,4,1,3529,1988,good,townhome,vacant,pre-foreclosure,85,individual
+7,33916,OH,live,748870,794584,2,4,2753,1986,average,condo,tenant,REO,114,investor
+8,95399,NC,live,104245,126252,3,1,3528,1988,good,townhome,vacant,REO,49,investor
+9,89459,NY,online,449026,625372,4,1,2788,1964,good,SFH,tenant,pre-foreclosure,14,individual
+10,94945,CA,online,400235,423192,4,3,3857,2004,average,condo,tenant,REO,32,individual
+11,33916,NV,live,378521,462797,3,2,804,1982,average,SFH,tenant,auction day,80,individual
+12,76723,TX,online,657405,804267,3,2,3895,1987,average,townhome,vacant,auction day,102,investor
+13,27219,TX,live,292949,394584,5,3,3414,2013,poor,condo,vacant,pre-foreclosure,80,investor
+14,89480,FL,live,691548,953357,3,1,1129,2010,average,townhome,tenant,pre-foreclosure,71,investor
+15,60633,CA,live,129301,146623,3,4,2017,1992,average,condo,vacant,auction day,59,individual
+16,89139,TX,online,742465,840711,1,1,2929,1987,average,SFH,vacant,auction day,76,investor
+17,11710,AZ,online,443429,540643,5,4,1664,2007,average,townhome,vacant,pre-foreclosure,115,investor
+18,27959,GA,live,675588,841983,4,4,1861,2014,good,townhome,vacant,auction day,13,individual
+19,32888,NV,live,446686,545074,1,1,2196,1962,average,townhome,vacant,REO,110,investor
+20,89459,TX,live,200729,223966,5,1,1402,2010,average,condo,tenant,pre-foreclosure,114,individual
+21,27219,FL,live,301944,374075,4,2,2978,1972,good,SFH,tenant,auction day,107,investor
+22,32888,OH,live,329731,418479,5,4,3648,1978,poor,SFH,tenant,auction day,93,individual
+23,12595,TX,live,591870,734972,1,1,1732,1976,average,SFH,vacant,pre-foreclosure,93,investor
+24,89139,CA,online,678495,729687,4,4,2632,1978,good,townhome,tenant,REO,33,individual
+25,61395,FL,live,577481,689129,5,2,3518,1972,average,townhome,tenant,auction day,73,individual
+26,44332,NY,live,563585,690540,5,4,3878,1974,good,condo,vacant,pre-foreclosure,107,individual
+27,95644,GA,live,320038,337200,3,3,2923,1995,poor,condo,vacant,auction day,65,investor
+28,85677,AZ,live,586987,797537,2,1,2229,1992,average,townhome,tenant,REO,103,individual
+29,77014,NC,online,407063,432441,3,3,2966,2017,average,SFH,vacant,pre-foreclosure,24,individual
+30,89204,TX,live,581481,703716,1,3,3147,2016,good,condo,tenant,auction day,35,individual
+31,89204,NC,live,375210,509452,5,3,2204,2006,good,townhome,vacant,auction day,104,investor
+32,89480,OH,live,121329,153065,4,2,1990,2003,good,townhome,vacant,REO,94,investor
+33,43831,CA,online,399883,430878,2,3,2423,1966,good,SFH,tenant,pre-foreclosure,76,individual
+34,43975,TX,online,279604,391034,5,2,802,1998,good,condo,tenant,REO,40,investor
+35,43064,TX,live,192612,225670,3,4,2287,1960,good,SFH,tenant,REO,84,individual
+36,14259,NC,online,571225,671823,3,3,3251,1983,good,townhome,vacant,REO,70,investor
+37,61395,NY,online,746306,805590,1,4,2559,2014,average,townhome,tenant,REO,83,individual
+38,89454,NV,live,327489,353584,2,3,1905,1999,average,townhome,vacant,auction day,61,investor
+39,85143,NC,online,774450,1078797,5,4,3440,1982,poor,townhome,vacant,pre-foreclosure,106,individual
+40,76482,NV,live,719319,774265,4,3,1871,1963,average,SFH,tenant,auction day,48,individual
+41,86035,NV,online,438363,504442,1,3,3871,2020,poor,condo,vacant,REO,20,individual
+42,60274,FL,online,68091,89338,2,2,1787,1984,average,condo,tenant,pre-foreclosure,15,individual
+43,76723,OH,online,92983,125628,3,2,1052,2009,poor,condo,vacant,pre-foreclosure,43,investor
+44,61395,NY,online,175077,200687,2,3,1779,1989,average,condo,tenant,pre-foreclosure,110,investor
+45,28379,FL,online,513430,686899,3,4,2590,1962,poor,condo,tenant,auction day,36,investor
+46,94945,FL,live,310010,405247,5,4,2725,1981,good,condo,vacant,pre-foreclosure,19,investor
+47,89454,GA,online,256859,285110,2,2,1306,1966,average,SFH,tenant,REO,35,investor
+48,30344,GA,live,788725,1000692,2,2,2223,2015,good,townhome,vacant,REO,37,investor
+49,85593,FL,live,163256,224530,3,4,3114,1978,average,condo,tenant,auction day,100,investor
+50,31498,GA,online,531816,664130,1,1,1953,2004,average,condo,vacant,pre-foreclosure,58,investor
+51,79484,OH,online,749653,805374,1,4,2814,1986,good,townhome,vacant,pre-foreclosure,119,investor
+52,32888,TX,live,332645,437184,3,1,1628,2004,good,SFH,vacant,auction day,28,individual
+53,27793,TX,online,548487,625557,1,1,3064,1961,average,condo,tenant,pre-foreclosure,5,investor
+54,31999,GA,live,186001,212166,3,1,815,2004,good,SFH,tenant,auction day,10,individual
+55,14157,CA,online,614578,761748,5,4,2786,2003,average,condo,tenant,auction day,101,investor
+56,27188,NV,online,123832,145770,1,4,1720,2016,poor,condo,vacant,auction day,99,individual
+57,44213,NC,online,648342,795922,3,2,3825,2018,average,condo,vacant,pre-foreclosure,106,investor
+58,14157,OH,online,749677,858175,4,3,2838,1970,average,SFH,vacant,REO,12,investor
+59,94373,CA,live,244589,263459,5,1,3411,1990,average,SFH,tenant,auction day,74,individual
+60,44332,GA,live,742589,819639,1,1,1691,1968,average,SFH,tenant,pre-foreclosure,38,individual
+61,75968,OH,online,129489,144250,1,1,1123,1999,average,townhome,tenant,auction day,20,individual
+62,60456,NV,online,761456,992344,3,3,2175,1984,average,townhome,tenant,pre-foreclosure,70,investor
+63,94373,IL,live,799423,863346,2,1,3989,1961,average,townhome,tenant,REO,25,individual
+64,60456,TX,live,643572,695501,2,3,1173,2017,average,condo,tenant,REO,101,individual
+65,89454,NC,online,394416,545257,1,4,1220,2020,poor,SFH,vacant,REO,7,investor
+66,85993,GA,live,56614,60358,3,2,1019,1988,average,townhome,tenant,pre-foreclosure,98,investor
+67,27219,TX,online,638330,740571,2,1,2269,1980,average,townhome,tenant,pre-foreclosure,87,investor
+68,10523,OH,online,342111,441948,4,3,2232,1964,poor,SFH,tenant,REO,8,investor
+69,90769,CA,online,576419,606399,5,2,2765,2007,average,SFH,vacant,auction day,38,investor
+70,89750,CA,online,348874,436066,3,1,2498,1999,good,townhome,tenant,REO,15,individual
+71,31999,GA,online,302139,358253,2,2,3457,1981,average,condo,vacant,auction day,14,individual
+72,76708,NC,live,268187,365753,3,4,1264,2018,average,SFH,tenant,auction day,63,individual
+73,27959,OH,online,479525,518039,2,2,3829,1970,average,SFH,vacant,auction day,107,investor
+74,27793,TX,online,309677,365850,1,2,3410,2013,good,condo,tenant,auction day,12,investor
+75,34345,OH,online,348909,461444,5,3,2840,2010,good,condo,tenant,REO,50,individual
+76,45824,OH,online,277338,326023,5,3,2705,1963,poor,condo,tenant,auction day,19,investor
+77,27188,NY,online,507778,619535,2,1,1695,1971,average,condo,tenant,REO,58,individual
+78,30344,CA,live,346320,412606,1,2,3206,1986,average,condo,tenant,pre-foreclosure,81,investor
+79,33399,NV,live,79058,85776,2,2,1646,1998,poor,SFH,vacant,REO,50,individual
+80,27818,IL,live,726667,888549,1,2,3074,2001,average,townhome,tenant,pre-foreclosure,22,individual
+81,31498,AZ,online,738844,816458,3,2,1642,2009,average,townhome,vacant,pre-foreclosure,30,investor
+82,76482,NC,live,118822,164336,3,2,2630,1984,good,SFH,tenant,pre-foreclosure,83,investor
+83,76708,TX,live,628519,709361,3,3,3774,1993,good,condo,tenant,REO,45,individual
+84,14157,FL,live,271797,316003,2,2,3684,2015,average,condo,vacant,REO,98,individual
+85,44782,IL,online,98796,109874,4,3,2035,2005,average,SFH,vacant,auction day,117,individual
+86,75968,CA,online,387405,513635,3,2,3273,1962,good,townhome,vacant,REO,32,investor
+87,94945,NC,online,55926,63248,4,4,2167,2001,poor,SFH,tenant,auction day,62,individual
+88,43975,AZ,online,798901,937597,5,3,1960,2001,average,townhome,vacant,pre-foreclosure,48,investor
+89,14157,TX,online,397230,464242,4,2,3267,1991,poor,condo,tenant,auction day,112,investor
+90,44755,AZ,online,745418,856097,5,3,1250,2013,average,condo,vacant,REO,36,individual
+91,75968,TX,online,52286,59508,3,4,1441,1964,average,townhome,tenant,auction day,96,individual
+92,30344,GA,online,586113,804320,1,3,3153,1978,poor,SFH,tenant,pre-foreclosure,69,individual
+93,86515,NC,online,783485,976181,1,2,1734,2000,good,condo,vacant,pre-foreclosure,102,individual
+94,31999,IL,online,328306,444656,4,2,2823,1976,average,townhome,tenant,auction day,75,individual
+95,43975,FL,live,621395,703837,4,4,2076,1997,good,townhome,tenant,auction day,24,individual
+96,28379,AZ,online,351465,448259,2,4,3759,1961,average,townhome,vacant,auction day,50,individual
+97,27188,NY,live,452379,528056,5,3,2343,1990,poor,townhome,tenant,REO,18,individual
+98,12739,AZ,online,752901,981008,1,2,1965,1990,good,townhome,tenant,pre-foreclosure,19,investor
+99,27959,NY,online,273284,381039,3,1,878,1970,average,SFH,tenant,REO,36,individual
+100,85593,NC,live,669722,829056,5,2,3280,1979,average,condo,tenant,pre-foreclosure,69,investor
+101,27188,OH,live,787435,1036055,2,3,3715,1992,good,townhome,tenant,pre-foreclosure,110,investor
+102,62988,NY,live,161360,186578,5,1,2083,1993,average,SFH,tenant,pre-foreclosure,27,investor
+103,11710,NC,online,198719,243356,1,4,3387,1983,average,townhome,vacant,auction day,60,individual
+104,32888,OH,live,405928,547989,4,1,3185,1966,poor,townhome,tenant,REO,26,investor
+105,60870,GA,live,529230,626414,3,2,1717,2016,poor,SFH,vacant,REO,25,investor
+106,92403,AZ,live,375740,501564,2,3,3508,2018,average,condo,tenant,pre-foreclosure,72,investor
+107,60633,CA,online,432329,486711,1,2,2018,1996,average,SFH,tenant,pre-foreclosure,33,investor
+108,44213,NC,live,445750,594823,2,2,3203,1997,good,SFH,vacant,REO,86,investor
+109,45313,CA,online,120087,158694,4,4,1284,2000,average,townhome,tenant,pre-foreclosure,99,individual
+110,43064,AZ,online,96006,103073,4,4,986,2019,good,SFH,vacant,pre-foreclosure,75,individual
+111,76482,NC,online,772021,932834,1,1,2023,1961,poor,condo,tenant,REO,93,individual
+112,95399,OH,live,716224,835599,1,1,1700,1980,average,townhome,tenant,REO,65,individual
+113,60422,TX,online,685208,826379,4,3,1609,2003,average,condo,vacant,pre-foreclosure,45,investor
+114,61052,GA,live,414660,557078,4,3,3250,1993,poor,townhome,tenant,pre-foreclosure,54,investor
+115,90769,CA,online,570953,798906,4,2,913,1966,good,SFH,vacant,REO,57,investor
+116,34944,FL,online,563484,730784,5,4,2234,1982,good,SFH,tenant,REO,72,investor
+117,85143,GA,live,214523,240638,5,2,1935,2015,good,townhome,vacant,REO,118,investor
+118,30344,TX,live,687929,788318,4,2,3836,1979,poor,condo,vacant,REO,50,investor
+119,60274,FL,online,412636,518156,3,3,1324,2009,good,condo,vacant,pre-foreclosure,113,individual
+120,89820,NC,live,371515,435463,1,3,1313,1980,average,condo,vacant,auction day,120,investor
+121,90480,NV,live,598707,746497,1,2,1870,1974,poor,SFH,vacant,auction day,118,individual
+122,33916,OH,live,485815,510947,2,1,1851,2016,average,SFH,tenant,pre-foreclosure,10,investor
+123,10523,OH,live,58397,75458,5,2,3282,1988,good,SFH,vacant,auction day,75,investor
+124,44332,GA,online,694256,853345,5,4,1776,1964,good,townhome,vacant,auction day,47,individual
+125,60556,NC,live,418690,559696,2,1,2487,1981,poor,condo,vacant,auction day,31,investor
+126,27793,AZ,online,475107,518773,3,2,1815,2011,average,condo,tenant,REO,29,individual
+127,12859,CA,online,86752,107678,3,2,3927,2007,average,condo,tenant,pre-foreclosure,47,investor
+128,86035,FL,live,400582,545118,5,3,1550,2016,good,townhome,tenant,pre-foreclosure,17,individual
+129,31498,AZ,live,392637,427539,1,2,951,1984,average,condo,tenant,pre-foreclosure,55,individual
+130,27818,TX,live,262311,295111,2,4,2505,1975,average,townhome,vacant,pre-foreclosure,74,investor
+131,44755,NC,online,257571,355528,5,2,2651,1988,good,townhome,tenant,REO,24,investor
+132,89011,OH,online,55491,68443,4,4,3760,2007,average,condo,tenant,REO,82,individual
+133,28075,IL,online,736092,794100,1,1,3986,1973,average,SFH,vacant,auction day,119,individual
+134,45313,NC,live,58500,72585,5,2,1133,1989,average,condo,vacant,auction day,80,investor
+135,33432,TX,online,50217,55964,4,1,3650,2010,poor,condo,vacant,auction day,30,individual
+136,43064,IL,live,360665,440805,2,2,2322,2001,poor,SFH,tenant,REO,77,investor
+137,89454,GA,live,308512,382728,1,1,3122,1990,good,SFH,vacant,auction day,77,individual
+138,30344,CA,online,769273,1037586,3,1,3589,1969,average,condo,vacant,REO,15,individual
+139,85593,GA,live,510370,588273,1,1,1166,1987,average,condo,tenant,REO,63,individual
+140,28150,IL,online,740138,950470,5,3,3839,2005,average,townhome,tenant,pre-foreclosure,71,individual
+141,12859,OH,live,702157,960774,4,2,3977,2003,poor,townhome,tenant,REO,99,investor
+142,30344,NC,online,438033,525998,2,3,3313,1980,average,SFH,vacant,pre-foreclosure,83,individual
+143,12739,IL,online,308568,408767,2,1,3609,1961,good,SFH,tenant,auction day,56,individual
+144,60422,OH,live,313675,410893,2,1,3931,1965,average,SFH,vacant,auction day,24,investor
+145,89480,IL,live,570156,795877,1,4,3164,1967,good,townhome,vacant,auction day,99,investor
+146,95399,TX,online,101840,118053,1,4,834,1964,average,SFH,tenant,REO,111,individual
+147,31833,TX,online,286573,396570,5,3,2007,1994,poor,condo,vacant,pre-foreclosure,78,individual
+148,11710,IL,live,460854,588416,1,4,3001,1987,good,condo,vacant,auction day,115,individual
+149,32888,FL,online,792773,943020,2,3,2487,1985,poor,condo,tenant,REO,85,individual
+150,12595,NY,online,364662,497629,5,2,3843,1969,poor,SFH,vacant,auction day,76,investor
+151,13839,OH,live,405261,484344,4,2,2276,1979,average,SFH,vacant,REO,62,investor
+152,60870,OH,online,781588,901258,2,2,1614,1964,average,condo,vacant,pre-foreclosure,60,investor
+153,89820,FL,online,394927,459574,2,2,944,1975,average,townhome,tenant,auction day,56,investor
+154,95644,NY,online,349277,370749,5,1,1307,1987,average,SFH,tenant,REO,103,individual
+155,60696,OH,online,767388,859557,3,2,3506,2008,good,townhome,tenant,auction day,70,individual
+156,44782,NY,live,703485,824824,2,4,3162,1976,good,condo,vacant,REO,92,individual
+157,90480,GA,online,159514,199661,5,4,2696,1984,good,townhome,vacant,pre-foreclosure,88,investor
+158,85649,NV,online,683617,943112,3,1,2660,1991,good,condo,tenant,pre-foreclosure,78,investor
+159,89454,TX,live,81135,111584,4,3,1734,2005,average,condo,tenant,pre-foreclosure,100,investor
+160,62988,IL,online,490334,648942,5,2,1000,2017,good,condo,tenant,pre-foreclosure,81,investor
+161,77503,NY,live,110953,131289,5,2,3325,2020,average,condo,tenant,pre-foreclosure,33,investor
+162,76723,NV,live,744293,821646,2,1,1052,2017,average,townhome,vacant,auction day,46,investor
+163,95644,IL,live,289559,327829,3,4,3995,2016,good,condo,tenant,pre-foreclosure,16,investor
+164,89750,IL,online,433774,509486,1,1,3978,2003,good,condo,vacant,auction day,76,investor
+165,90769,CA,live,562663,740693,5,4,3964,1963,average,SFH,vacant,auction day,31,individual
+166,32471,CA,online,627647,727630,5,2,3520,1961,average,condo,vacant,auction day,35,investor
+167,60633,AZ,live,393508,501637,3,2,3110,1994,average,townhome,tenant,pre-foreclosure,46,investor
+168,33399,AZ,live,144869,189910,2,1,3470,1961,average,townhome,vacant,pre-foreclosure,28,investor
+169,95444,NY,live,519213,557088,3,3,1465,1965,poor,condo,vacant,auction day,114,individual
+170,34734,NY,live,667606,875772,4,1,1033,1960,poor,SFH,tenant,pre-foreclosure,101,investor
+171,89820,CA,online,452460,609582,1,2,3508,1987,good,condo,tenant,auction day,9,investor
+172,34380,TX,live,786959,829157,1,2,813,1981,average,townhome,tenant,pre-foreclosure,68,investor
+173,31968,GA,online,590902,771237,3,2,887,2020,average,townhome,vacant,REO,119,investor
+174,14259,TX,online,352031,439816,3,1,1259,2002,average,SFH,tenant,pre-foreclosure,62,investor
+175,89454,IL,online,520998,564223,4,1,1378,2018,good,condo,vacant,REO,45,investor
+176,43975,NV,live,492480,664294,1,2,1945,1967,average,townhome,tenant,pre-foreclosure,72,investor
+177,92162,FL,live,506043,661384,3,4,3055,2002,average,condo,vacant,auction day,24,investor
+178,95444,TX,online,474238,582616,4,3,2380,2013,average,SFH,vacant,REO,65,individual
+179,44332,GA,live,720946,963893,1,3,3833,1977,average,SFH,tenant,auction day,15,investor
+180,14586,NC,live,744298,925158,2,3,3194,1966,poor,condo,tenant,auction day,98,individual
+181,89492,AZ,live,618899,663144,2,1,1133,1996,average,SFH,tenant,REO,39,investor
+182,89820,AZ,online,496400,635650,4,3,2748,2017,poor,townhome,tenant,pre-foreclosure,23,individual
+183,30736,AZ,live,400168,541294,4,1,3584,1984,poor,townhome,vacant,REO,53,investor
+184,76708,CA,online,181151,225564,1,4,983,1994,good,condo,vacant,auction day,6,investor
+185,85649,IL,online,94480,125426,1,4,3691,1962,average,condo,tenant,pre-foreclosure,8,individual
+186,32471,FL,live,673687,742520,2,1,1761,2012,poor,condo,tenant,pre-foreclosure,86,individual
+187,10523,CA,online,95304,108960,4,2,1355,2003,average,SFH,tenant,REO,93,investor
+188,32471,AZ,online,668748,735742,2,2,1796,1979,good,condo,tenant,REO,76,individual
+189,13647,NY,live,53823,72386,4,4,2763,1978,good,SFH,vacant,REO,82,investor
+190,27219,FL,online,277605,350006,3,1,2545,1979,average,condo,tenant,pre-foreclosure,83,individual
+191,78099,CA,online,161501,204147,3,3,2069,1985,average,SFH,vacant,auction day,46,investor
+192,60556,FL,live,708676,945411,5,4,3652,1963,average,SFH,vacant,REO,62,investor
+193,43831,FL,online,515118,623792,5,1,2833,2014,average,SFH,tenant,auction day,102,individual
+194,89492,NY,online,245859,320938,5,2,3162,2012,poor,SFH,vacant,auction day,41,investor
+195,45824,FL,live,202804,238316,3,4,1674,2001,average,SFH,vacant,auction day,70,investor
+196,45634,CA,online,797789,1097797,2,4,3135,1970,average,SFH,tenant,auction day,102,investor
+197,90480,NY,live,125357,145735,4,2,1159,1986,good,condo,vacant,pre-foreclosure,62,investor
+198,77014,CA,live,198348,237107,5,1,1654,2008,poor,condo,tenant,auction day,100,investor
+199,60274,GA,live,380250,515719,4,4,2920,2017,poor,townhome,tenant,REO,104,investor
+200,89843,NY,online,288704,391411,2,3,1743,1999,average,SFH,vacant,auction day,48,individual
+201,60696,NV,live,357686,415560,1,1,1621,2020,poor,SFH,vacant,pre-foreclosure,86,investor
+202,77503,NY,online,670247,725961,3,3,813,1998,poor,townhome,vacant,pre-foreclosure,55,investor
+203,14586,CA,online,546821,688875,3,1,1951,1962,average,SFH,vacant,auction day,110,investor
+204,45634,AZ,live,621712,810406,5,1,1429,2015,average,townhome,tenant,pre-foreclosure,119,investor
+205,44332,AZ,online,547876,629660,5,4,2361,2019,poor,townhome,tenant,auction day,77,investor
+206,14586,AZ,online,683602,814439,2,3,947,1984,average,townhome,tenant,auction day,95,individual
+207,33432,AZ,live,602446,802554,1,2,1770,2003,good,condo,vacant,pre-foreclosure,50,investor
+208,61395,AZ,live,356741,428019,4,2,1827,1996,average,condo,tenant,REO,49,individual
+209,62988,OH,online,405563,492585,1,2,3581,2007,average,condo,vacant,auction day,41,individual
+210,76482,NC,live,705949,787341,1,3,1598,1991,poor,townhome,vacant,auction day,14,individual
+211,45634,CA,live,94878,107063,5,4,3667,1985,average,SFH,tenant,auction day,28,investor
+212,77503,NC,online,440434,484993,5,2,1013,1976,good,townhome,tenant,pre-foreclosure,44,investor
+213,28379,CA,live,755357,966847,2,3,3429,2020,average,townhome,tenant,REO,32,investor
+214,92162,NC,online,519891,690358,5,1,1176,2004,poor,SFH,tenant,REO,35,individual
+215,44332,NY,live,596317,723999,3,1,3496,1979,average,SFH,tenant,REO,63,investor
+216,89843,OH,live,492745,558793,2,3,3553,1995,good,SFH,tenant,REO,94,investor
+217,34944,NY,live,749459,912199,3,3,1160,1973,average,townhome,tenant,REO,86,individual
+218,85593,GA,online,774678,869782,4,4,2918,1981,average,townhome,vacant,pre-foreclosure,11,individual
+219,76482,FL,online,729256,889380,2,2,3066,1990,poor,SFH,tenant,REO,108,individual
+220,86035,GA,online,167162,223946,3,1,3831,2008,good,condo,tenant,auction day,25,investor
+221,86517,NY,live,354723,492483,3,4,2110,2012,average,townhome,vacant,pre-foreclosure,68,investor
+222,27959,GA,live,567136,643976,5,4,3609,2020,poor,SFH,vacant,auction day,76,individual
+223,89843,NY,online,750897,946048,5,3,2364,2015,average,SFH,vacant,pre-foreclosure,101,investor
+224,77014,NC,live,187802,231203,2,4,942,1981,good,townhome,vacant,REO,101,investor
+225,27793,NY,live,227578,254285,3,1,1076,2015,good,townhome,tenant,REO,20,individual
+226,13839,TX,online,514298,621892,4,4,2663,1967,good,condo,tenant,REO,59,investor
+227,60556,NY,live,111181,147303,4,2,2470,1987,poor,townhome,tenant,pre-foreclosure,88,investor
+228,85107,IL,live,299461,406774,4,1,1143,2011,average,townhome,tenant,auction day,79,individual
+229,27818,NC,online,59613,77070,4,2,2656,2014,good,townhome,tenant,REO,47,individual
+230,75968,NY,online,529269,724043,2,1,1886,2018,good,condo,tenant,auction day,98,individual
+231,45824,OH,online,553055,765398,4,3,3657,1970,good,SFH,tenant,auction day,30,investor
+232,12595,OH,live,497688,569404,2,1,3619,2004,poor,townhome,vacant,auction day,74,individual
+233,44213,NC,online,273981,374952,4,4,3711,1998,good,townhome,tenant,auction day,27,investor
+234,85593,AZ,live,477636,625880,2,3,3936,1983,good,SFH,vacant,auction day,16,individual
+235,61052,TX,live,413256,495823,1,3,3271,1964,average,townhome,tenant,REO,55,investor
+236,13839,GA,online,297757,367920,2,2,2906,1996,average,condo,vacant,REO,36,investor
+237,78099,NY,online,686732,749383,2,2,1977,2014,poor,townhome,tenant,auction day,83,individual
+238,45313,AZ,online,277537,357718,4,4,3641,1965,poor,townhome,vacant,pre-foreclosure,118,individual
+239,28379,CA,online,133377,180966,3,4,874,1997,poor,condo,vacant,auction day,66,investor
+240,27219,FL,live,373721,401887,4,1,2455,2017,average,condo,tenant,REO,89,individual
+241,76708,FL,online,287839,354370,4,4,1587,1981,average,SFH,tenant,REO,113,investor
+242,44782,TX,live,484290,580822,3,4,1991,1987,poor,condo,tenant,REO,71,individual
+243,89480,NC,live,378728,518895,4,1,1496,1969,average,condo,vacant,pre-foreclosure,69,investor
+244,75968,OH,online,265324,283664,5,4,2857,1981,good,condo,tenant,auction day,99,individual
+245,27653,OH,live,499851,586820,5,2,1762,1984,poor,townhome,vacant,pre-foreclosure,16,investor
+246,34345,NC,live,165246,212712,4,4,1410,2012,good,SFH,vacant,pre-foreclosure,67,individual
+247,94945,FL,online,475398,602108,1,4,857,1969,average,condo,vacant,auction day,112,individual
+248,76723,AZ,online,181367,202317,5,4,2279,2017,average,condo,vacant,REO,34,investor
+249,27219,NC,online,369366,425962,5,3,805,1979,poor,townhome,vacant,auction day,77,investor
+250,89459,CA,live,552768,600367,3,2,1021,1995,average,SFH,tenant,auction day,37,individual
+251,78099,NY,online,239290,278138,3,2,1769,2020,average,condo,tenant,pre-foreclosure,88,individual
+252,30736,NC,live,180189,236130,2,4,1620,2013,good,townhome,tenant,auction day,45,investor
+253,34380,IL,live,187675,227610,2,2,2162,1968,average,condo,tenant,pre-foreclosure,119,investor
+254,95399,NC,live,158010,208302,1,2,3152,2006,poor,SFH,tenant,auction day,113,investor
+255,94373,NY,live,414095,475099,3,3,1195,2013,average,SFH,vacant,pre-foreclosure,85,investor
+256,89011,NC,online,236552,249750,3,3,1746,2001,average,townhome,tenant,REO,115,investor
+257,60556,TX,live,261911,356266,5,4,1840,2010,good,condo,tenant,REO,120,individual
+258,30736,NV,live,174590,206399,5,2,908,2004,good,townhome,vacant,REO,64,investor
+259,92162,IL,live,749973,1030281,2,1,1614,2006,average,townhome,vacant,REO,86,investor
+260,90480,OH,online,244786,283086,2,3,2053,1968,poor,townhome,vacant,REO,7,investor
+261,43975,TX,live,444500,528326,1,1,3056,2000,good,SFH,tenant,pre-foreclosure,53,individual
+262,27219,NY,online,50798,70895,5,1,3826,2010,poor,SFH,tenant,pre-foreclosure,69,individual
+263,60556,AZ,live,63812,83339,2,3,2073,1990,average,townhome,tenant,auction day,118,individual
+264,12859,CA,online,337457,454180,3,4,2199,1960,good,SFH,vacant,REO,36,individual
+265,89820,OH,online,612292,767519,3,2,3221,1986,good,condo,vacant,REO,53,individual
+266,32471,NY,live,794972,870925,1,1,2796,1975,average,condo,vacant,auction day,71,investor
+267,11710,GA,online,600418,652372,5,1,1147,1968,good,condo,tenant,auction day,37,investor
+268,85993,GA,live,659282,787596,1,2,1612,2008,average,townhome,vacant,auction day,13,investor
+269,31883,FL,online,71571,85235,4,3,1000,2003,average,SFH,vacant,pre-foreclosure,91,investor
+270,90769,NV,online,121839,147332,5,1,2610,2009,good,SFH,vacant,REO,87,investor
+271,77014,NC,online,460099,536602,4,1,1350,1978,poor,condo,tenant,pre-foreclosure,118,individual
+272,31968,IL,live,447963,470552,2,4,862,2017,average,townhome,vacant,pre-foreclosure,27,investor
+273,86515,OH,live,636296,800046,2,1,3315,2012,good,townhome,tenant,pre-foreclosure,40,individual
+274,30736,NY,live,146689,160210,3,3,1241,1981,good,condo,vacant,REO,9,individual
+275,44332,NV,live,444276,469132,5,4,3710,1989,average,condo,vacant,auction day,41,investor
+276,60870,NC,live,690388,819315,5,3,2372,2017,good,SFH,tenant,pre-foreclosure,113,investor
+277,89492,GA,live,356253,446903,4,2,1069,2017,poor,SFH,vacant,REO,31,individual
+278,79484,GA,live,227030,279402,2,1,2999,2001,average,condo,vacant,REO,62,individual
+279,30228,OH,online,129966,158383,3,1,2588,1978,average,townhome,tenant,REO,102,investor
+280,43831,FL,live,569858,729816,5,3,842,2002,good,townhome,tenant,auction day,108,individual
+281,34345,CA,live,736981,919870,5,3,1077,2009,good,condo,vacant,REO,92,individual
+282,13839,NC,online,463984,617414,1,4,2561,2005,average,condo,tenant,auction day,59,investor
+283,34380,AZ,online,407689,450193,2,3,2218,2002,average,SFH,tenant,REO,5,investor
+284,77611,TX,live,99916,124271,2,2,3370,1981,average,condo,tenant,REO,40,individual
+285,89480,CA,online,114355,128333,5,2,2540,2000,average,SFH,tenant,auction day,41,investor
+286,60696,IL,online,564137,709143,4,1,1055,1967,average,townhome,vacant,REO,31,individual
+287,31968,NV,live,714320,820125,2,3,3977,1984,poor,townhome,vacant,REO,38,individual
+288,60422,AZ,online,255359,341143,5,4,2114,2020,good,condo,tenant,pre-foreclosure,97,individual
+289,62988,IL,online,520275,576433,1,4,2120,1986,average,SFH,vacant,pre-foreclosure,87,investor
+290,61395,GA,online,171194,232430,1,3,1604,2014,average,townhome,vacant,pre-foreclosure,55,investor
+291,60274,FL,live,668331,840239,4,1,3419,2006,poor,condo,tenant,pre-foreclosure,103,investor
+292,31968,NY,live,335048,381220,2,4,984,1960,good,SFH,vacant,REO,102,individual
+293,76482,NC,live,513519,645748,5,3,2294,1977,average,SFH,vacant,pre-foreclosure,96,investor
+294,33432,NC,live,118293,128081,5,4,3573,1991,average,SFH,tenant,auction day,16,investor
+295,77503,NV,online,562391,659049,3,4,3511,1991,average,condo,tenant,auction day,66,investor
+296,89820,GA,live,71813,92145,5,1,2367,1999,good,SFH,vacant,pre-foreclosure,107,individual
+297,44332,NC,online,582467,653853,1,1,3933,2015,average,townhome,tenant,auction day,85,individual
+298,34316,FL,online,507782,558887,4,4,3771,2013,average,townhome,vacant,pre-foreclosure,60,individual
+299,44782,GA,online,793464,1095240,2,4,2321,2001,average,condo,vacant,auction day,98,investor
+300,27793,GA,online,609758,852706,1,3,3646,1960,poor,SFH,tenant,REO,72,investor
+301,44782,TX,online,770262,979360,1,1,2981,1989,average,condo,tenant,auction day,55,individual
+302,30228,NV,live,258635,338999,4,4,3841,1979,good,townhome,vacant,auction day,104,individual
+303,92162,TX,live,477057,513464,5,3,2346,1974,average,SFH,vacant,auction day,11,investor
+304,90769,AZ,live,152157,195156,3,1,1592,1976,average,SFH,vacant,auction day,40,investor
+305,33916,OH,online,767335,845667,5,2,2279,1964,average,SFH,vacant,REO,89,individual
+306,43831,FL,online,117765,158202,5,1,1831,2008,good,SFH,tenant,REO,99,individual
+307,61052,IL,live,368835,470317,3,1,2346,2007,average,townhome,tenant,auction day,62,investor
+308,31883,CA,live,711940,959412,1,2,1879,2008,good,townhome,vacant,REO,120,investor
+309,30344,CA,online,440048,598045,2,2,2898,1981,average,condo,vacant,REO,24,investor
+310,60870,IL,online,58310,70610,4,4,3039,1961,poor,condo,tenant,auction day,89,investor
+311,31833,NC,live,338571,376821,2,2,3739,2010,good,SFH,vacant,auction day,24,individual
+312,90480,TX,online,414128,535130,3,4,2267,1987,average,SFH,vacant,auction day,114,individual
+313,31883,AZ,online,304540,419308,3,4,1091,1960,average,condo,vacant,auction day,8,individual
+314,89459,TX,live,492882,643768,3,2,899,2018,good,SFH,vacant,pre-foreclosure,38,investor
+315,89480,GA,online,315503,439117,3,4,3464,1994,poor,condo,vacant,REO,80,individual
+316,45824,AZ,online,770573,1065991,5,3,3721,1975,good,SFH,vacant,auction day,15,investor
+317,27959,IL,live,108521,139077,3,3,1890,2017,good,townhome,vacant,auction day,48,individual
+318,34734,GA,online,237063,291067,5,4,3772,1968,good,condo,tenant,REO,82,investor
+319,86517,OH,live,566007,647192,2,4,1163,1998,good,townhome,tenant,REO,107,individual
+320,34944,AZ,live,245783,293913,2,2,1628,2011,average,condo,vacant,REO,87,individual
+321,44213,TX,live,240532,334057,2,4,1987,2007,poor,SFH,tenant,auction day,46,individual
+322,86486,AZ,online,121520,134778,5,1,3713,2009,poor,SFH,vacant,pre-foreclosure,50,investor
+323,28150,FL,online,508698,609364,3,1,3561,2007,good,condo,vacant,pre-foreclosure,51,investor
+324,30344,IL,live,402790,456298,3,4,3981,1972,average,townhome,tenant,pre-foreclosure,63,individual
+325,76723,FL,online,677085,783762,4,2,3013,1977,poor,townhome,tenant,auction day,77,individual
+326,60274,IL,live,83924,112901,5,2,3713,2007,good,SFH,tenant,REO,72,individual
+327,89843,NY,online,697037,924905,3,4,1478,1963,poor,SFH,vacant,auction day,30,individual
+328,85649,NV,live,478921,549845,4,1,1073,2011,average,SFH,vacant,REO,57,individual
+329,90769,FL,online,226535,251521,3,4,2550,2001,good,SFH,vacant,pre-foreclosure,24,investor
+330,34734,TX,live,86605,118145,2,2,1050,1999,good,condo,tenant,REO,20,individual
+331,27219,CA,online,520763,587745,2,4,3703,1961,good,SFH,tenant,REO,101,individual
+332,89204,NV,live,200652,245774,1,2,2659,1968,average,SFH,tenant,auction day,74,investor
+333,45634,CA,online,637312,798918,5,3,3832,1977,average,condo,vacant,auction day,77,investor
+334,45824,NY,live,736836,917268,1,3,3295,1981,poor,SFH,vacant,REO,73,investor
+335,33916,FL,live,638156,753158,3,4,3108,2009,poor,townhome,vacant,pre-foreclosure,23,individual
+336,27188,AZ,live,218490,231299,2,3,1265,1972,average,condo,tenant,pre-foreclosure,28,investor
+337,32471,FL,live,458540,576763,3,1,3500,1965,average,townhome,tenant,REO,21,individual
+338,62988,GA,online,782649,1065649,3,4,2140,2020,average,townhome,tenant,REO,8,individual
+339,27219,OH,live,559619,773400,4,2,2846,1999,average,condo,vacant,pre-foreclosure,96,investor
+340,34380,CA,live,591588,667376,5,1,845,1993,poor,townhome,vacant,pre-foreclosure,37,investor
+341,27897,AZ,live,162155,211422,1,4,1839,1990,poor,SFH,tenant,REO,33,individual
+342,90480,FL,online,278899,340712,2,3,2903,1968,average,townhome,tenant,auction day,30,individual
+343,77611,NY,live,579841,760141,2,2,3436,1976,average,SFH,tenant,REO,54,individual
+344,60696,AZ,online,601217,652038,3,2,2200,2015,good,SFH,vacant,pre-foreclosure,104,individual
+345,34380,GA,online,547455,627742,3,1,3581,1973,poor,condo,vacant,pre-foreclosure,120,investor
+346,34316,NV,live,733759,981391,2,2,840,2004,average,condo,tenant,REO,53,investor
+347,89459,AZ,live,62243,86121,2,1,2464,1963,average,condo,vacant,REO,38,investor
+348,30280,CA,online,710236,885966,5,1,1195,2005,average,townhome,vacant,pre-foreclosure,21,investor
+349,33399,NV,online,477158,506999,2,1,1085,1987,poor,townhome,tenant,REO,117,individual
+350,45313,FL,online,755766,897315,5,1,2665,2007,poor,townhome,vacant,auction day,72,investor
+351,14586,NV,online,113895,127127,1,2,1210,2013,good,townhome,vacant,REO,7,individual
+352,95644,FL,live,50753,70556,3,1,1410,2020,good,condo,tenant,pre-foreclosure,70,individual
+353,44755,GA,live,773566,927467,5,4,3902,1990,good,townhome,vacant,auction day,46,individual
+354,89843,TX,live,242472,322259,2,2,3720,1975,good,townhome,tenant,pre-foreclosure,38,investor
+355,33916,NV,online,60069,71312,2,1,2770,1968,average,townhome,vacant,REO,95,individual
+356,60274,NC,live,110323,120471,3,3,2637,1995,good,condo,vacant,auction day,95,individual
+357,28075,GA,online,223713,267159,2,2,2952,1966,poor,SFH,vacant,REO,73,investor
+358,90769,TX,online,442711,551747,3,2,1024,2005,good,condo,vacant,pre-foreclosure,97,individual
+359,12739,OH,live,377786,421780,1,2,849,2002,average,condo,tenant,pre-foreclosure,43,investor
+360,34380,AZ,live,735747,827814,3,4,1628,1984,average,condo,vacant,pre-foreclosure,77,individual
+361,75968,GA,live,751817,853044,4,3,829,1989,average,condo,vacant,auction day,83,individual
+362,60556,NY,live,511014,605929,1,1,2687,1988,good,condo,vacant,pre-foreclosure,119,investor
+363,11710,CA,online,386541,444560,2,4,1311,1978,good,condo,vacant,auction day,9,investor
+364,43831,NC,online,401812,484418,1,1,3782,1998,average,townhome,vacant,auction day,79,individual
+365,89454,OH,online,185357,255999,2,2,817,2002,poor,townhome,tenant,auction day,100,individual
+366,76482,GA,live,746506,907318,2,3,2822,1998,average,townhome,vacant,pre-foreclosure,108,individual
+367,76708,FL,online,729499,959780,5,4,949,2019,poor,condo,tenant,pre-foreclosure,80,investor
+368,33399,GA,online,119060,134461,3,2,2139,1979,poor,SFH,vacant,auction day,100,individual
+369,32888,NY,live,476920,547271,3,1,1910,2019,good,condo,tenant,auction day,39,investor
+370,45824,IL,online,767158,1030432,4,1,3537,1978,average,townhome,tenant,auction day,37,individual
+371,45313,NC,live,338057,386810,3,3,3021,1974,average,condo,tenant,auction day,104,investor
+372,89139,OH,online,713815,844111,5,1,1255,1999,good,SFH,vacant,REO,47,investor
+373,30344,GA,online,285239,395645,1,2,1078,1984,good,townhome,vacant,auction day,100,individual
+374,31883,TX,online,583157,672428,5,3,2578,1973,average,townhome,vacant,auction day,87,investor
+375,90480,TX,online,776687,1078410,2,3,3618,1996,good,SFH,tenant,REO,12,individual
+376,34380,AZ,live,160619,176123,3,1,2694,1977,average,townhome,vacant,REO,60,individual
+377,30720,TX,online,586608,684126,5,1,3679,2013,average,SFH,vacant,REO,108,investor
+378,79484,FL,online,460641,489692,2,3,1438,2018,average,townhome,tenant,pre-foreclosure,110,investor
+379,89492,AZ,online,560510,678316,5,1,2116,1971,average,condo,vacant,auction day,51,individual
+380,75968,GA,online,66852,72243,5,4,3296,2016,average,SFH,vacant,pre-foreclosure,10,investor
+381,43975,GA,online,686625,893973,2,1,1910,2013,poor,condo,tenant,auction day,34,individual
+382,44213,OH,online,290144,306201,3,4,3010,2019,good,condo,vacant,pre-foreclosure,25,investor
+383,94373,FL,online,301152,327732,3,1,3143,2011,good,SFH,vacant,REO,18,individual
+384,33916,OH,live,551654,742975,5,1,3344,1966,average,townhome,vacant,REO,99,investor
+385,27653,AZ,live,501929,619515,5,4,3902,1997,poor,SFH,tenant,pre-foreclosure,36,individual
+386,43064,CA,live,441582,580865,4,2,3949,1986,poor,condo,vacant,pre-foreclosure,34,individual
+387,95644,TX,online,366469,485625,1,3,996,2009,average,townhome,tenant,REO,10,individual
+388,94945,IL,live,779149,899278,2,2,1899,2004,poor,townhome,tenant,pre-foreclosure,14,investor
+389,86517,NC,live,553377,693095,3,3,3955,1997,average,townhome,vacant,auction day,46,individual
+390,34380,NV,live,471375,655835,5,1,2922,1972,poor,condo,vacant,pre-foreclosure,41,investor
+391,89750,OH,online,636632,763732,4,1,1721,2015,good,townhome,tenant,pre-foreclosure,24,individual
+392,89843,OH,online,107924,131691,1,1,3568,1989,poor,condo,vacant,REO,90,investor
+393,45824,OH,online,653297,794726,3,2,3948,2019,average,townhome,vacant,REO,73,individual
+394,12595,NV,online,276147,316364,5,2,1841,1969,average,SFH,vacant,auction day,47,individual
+395,95644,AZ,online,634075,700906,3,2,3951,1962,average,townhome,tenant,auction day,56,individual
+396,31498,CA,online,704285,772144,1,2,2835,2005,good,SFH,tenant,REO,68,individual
+397,95644,OH,live,65367,87112,4,4,1791,1981,average,condo,vacant,auction day,27,investor
+398,14157,GA,online,783622,1009518,1,4,2819,1982,average,condo,vacant,pre-foreclosure,21,individual
+399,43975,NC,online,699064,887419,1,2,1837,1995,average,condo,vacant,REO,40,investor
+400,14259,CA,online,459896,558809,5,2,3282,1990,poor,townhome,vacant,REO,48,individual
+401,12859,NY,live,135523,151198,5,2,3988,2015,average,condo,vacant,auction day,90,individual
+402,27188,NY,live,250039,327375,4,3,3332,1998,poor,SFH,vacant,REO,110,individual
+403,12859,IL,live,666010,892415,2,1,3206,2007,good,condo,tenant,pre-foreclosure,69,investor
+404,45313,IL,online,98693,127919,1,2,3079,2001,average,SFH,tenant,pre-foreclosure,114,investor
+405,10523,FL,live,580610,718462,2,2,3391,1965,poor,SFH,vacant,REO,95,individual
+406,77417,TX,live,739202,928388,2,3,1536,1962,good,SFH,tenant,auction day,72,investor
+407,12739,TX,online,349412,385979,5,1,3733,1979,average,townhome,tenant,pre-foreclosure,67,individual
+408,95399,NC,live,385868,500477,1,1,3278,1981,good,condo,vacant,REO,28,individual
+409,89843,FL,live,543342,619624,1,1,3406,2006,average,townhome,tenant,auction day,69,individual
+410,30720,CA,live,496089,644061,5,1,3186,1978,average,townhome,tenant,auction day,12,investor
+411,27793,IL,online,521763,717144,5,2,3758,1969,average,townhome,tenant,pre-foreclosure,48,investor
+412,27959,IL,live,556500,735878,4,2,2856,2004,average,condo,vacant,REO,43,individual
+413,89750,OH,online,263065,348609,1,4,2934,1993,good,condo,tenant,auction day,102,individual
+414,33916,NY,online,122303,145420,4,2,2473,1964,average,condo,vacant,pre-foreclosure,112,investor
+415,30280,AZ,online,523213,675791,3,1,1060,1971,average,condo,tenant,REO,94,individual
+416,10523,AZ,online,637478,875565,2,2,3401,1982,good,SFH,tenant,auction day,66,investor
+417,44213,NY,live,533122,668470,2,2,2569,2014,poor,townhome,vacant,REO,73,individual
+418,30228,IL,online,123561,150605,1,1,3576,1962,poor,townhome,tenant,auction day,73,investor
+419,34345,GA,online,364046,504620,4,1,906,1992,average,SFH,tenant,pre-foreclosure,67,individual
+420,76723,TX,online,669688,878417,4,2,1573,1971,average,SFH,tenant,pre-foreclosure,111,investor
+421,13839,OH,online,753462,800382,2,2,1231,1990,average,townhome,tenant,auction day,41,investor
+422,45634,IL,online,63116,78519,2,2,1605,2007,average,condo,tenant,pre-foreclosure,94,individual
+423,44755,NC,live,312656,334006,4,3,1918,1977,average,condo,tenant,pre-foreclosure,9,individual
+424,31833,NY,online,763624,1053554,3,1,2468,1987,average,townhome,tenant,pre-foreclosure,74,investor
+425,28379,IL,live,717205,888052,4,2,3140,2014,poor,condo,vacant,auction day,6,individual
+426,30344,OH,online,620977,712390,4,4,2939,1988,average,SFH,tenant,REO,93,individual
+427,30344,FL,live,799948,1024397,2,1,2152,2003,poor,condo,tenant,pre-foreclosure,30,individual
+428,34734,NY,live,580191,768780,1,1,1729,1994,average,condo,tenant,pre-foreclosure,79,investor
+429,11710,TX,online,472661,522615,3,4,1726,2005,good,townhome,vacant,REO,89,individual
+430,31999,IL,online,618813,721581,3,2,3502,1985,average,townhome,tenant,pre-foreclosure,57,investor
+431,27897,CA,live,322576,420607,4,4,2432,2006,poor,townhome,tenant,pre-foreclosure,84,individual
+432,43975,IL,online,371216,414402,2,3,1784,2014,good,SFH,vacant,pre-foreclosure,110,individual
+433,34380,NC,live,273070,288696,2,2,3654,1977,average,SFH,vacant,pre-foreclosure,44,individual
+434,12595,AZ,live,220328,255935,3,1,1503,1993,good,condo,vacant,pre-foreclosure,109,individual
+435,27959,IL,online,260936,284134,2,2,3432,2005,good,condo,tenant,REO,52,investor
+436,45634,FL,live,382096,484411,2,1,2312,1977,average,townhome,vacant,pre-foreclosure,75,individual
+437,89843,TX,online,446106,549524,1,4,2568,2016,poor,townhome,tenant,pre-foreclosure,33,individual
+438,44782,GA,online,355498,494302,2,1,1746,1996,average,townhome,tenant,pre-foreclosure,79,investor
+439,27959,CA,live,769512,1060400,3,4,2252,1961,good,townhome,vacant,pre-foreclosure,87,investor
+440,92162,FL,online,299459,391036,5,2,3571,2020,average,condo,tenant,REO,24,individual
+441,44332,FL,online,681761,822373,1,3,2461,2001,poor,condo,tenant,auction day,69,investor
+442,32471,GA,online,397251,431512,4,1,1517,2005,good,condo,vacant,auction day,5,individual
+443,60870,NY,online,629288,725966,4,3,2407,1964,average,townhome,vacant,REO,49,investor
+444,10523,NC,online,707013,932188,4,4,920,1980,good,townhome,tenant,auction day,75,individual
+445,92403,AZ,live,638343,738752,3,1,3776,2001,poor,SFH,vacant,auction day,23,individual
+446,92403,FL,online,248224,331495,2,1,2804,1989,average,townhome,tenant,auction day,89,investor
+447,32888,TX,live,127175,136925,5,1,2724,1963,poor,townhome,tenant,auction day,29,investor
+448,31883,FL,online,450724,575408,1,4,1977,1993,good,condo,tenant,auction day,57,individual
+449,90769,TX,live,482062,576169,4,2,3854,2020,poor,SFH,vacant,auction day,47,investor
+450,30228,AZ,live,648898,741566,5,1,3918,1972,poor,condo,tenant,REO,85,investor
+451,61395,CA,live,633371,735256,3,3,3193,1977,average,SFH,vacant,REO,27,investor
+452,89459,GA,online,724705,879293,4,2,2091,1986,good,SFH,vacant,pre-foreclosure,112,individual
+453,91883,NY,online,280493,381674,2,2,1572,1994,average,condo,vacant,auction day,41,investor
+454,45313,NC,online,542284,670329,5,4,3841,2003,good,condo,vacant,auction day,116,individual
+455,30736,TX,live,291556,359310,2,2,3146,2012,average,condo,vacant,auction day,53,investor
+456,12739,NV,online,604394,843363,1,2,1501,1986,good,SFH,tenant,auction day,83,individual
+457,86035,NV,online,229996,266358,5,1,3099,1972,good,townhome,tenant,pre-foreclosure,71,investor
+458,78099,GA,live,462932,628204,4,1,1882,1989,poor,townhome,tenant,pre-foreclosure,93,individual
+459,30280,NV,live,159876,211091,5,1,3323,1972,average,condo,tenant,REO,65,investor
+460,86035,NV,live,174349,201908,5,2,3598,2003,average,townhome,tenant,pre-foreclosure,71,individual
+461,76723,NC,live,474523,625951,4,2,2997,1992,poor,SFH,vacant,REO,23,individual
+462,79484,NV,live,417550,518851,3,1,3935,2017,average,SFH,tenant,pre-foreclosure,83,individual
+463,77417,NY,live,612466,744980,2,1,3806,1978,good,townhome,vacant,auction day,6,investor
+464,90480,TX,live,250182,271134,4,4,2951,1971,average,condo,tenant,REO,54,individual
+465,60556,TX,live,587292,681227,3,1,2198,1970,average,SFH,tenant,pre-foreclosure,19,investor
+466,89454,NC,online,328444,414810,4,3,2840,1998,average,SFH,tenant,REO,84,investor
+467,89820,CA,online,714845,854551,5,4,2098,1965,average,SFH,vacant,REO,69,investor
+468,79484,GA,online,450775,584284,4,2,3319,1960,average,condo,tenant,REO,110,investor
+469,32888,IL,live,469471,625572,2,3,2114,2002,good,condo,tenant,auction day,19,investor
+470,78099,OH,online,690633,905887,5,2,1173,2013,poor,SFH,tenant,pre-foreclosure,95,investor
+471,45634,GA,live,772243,861678,4,3,3168,1992,poor,townhome,vacant,REO,103,individual
+472,34380,GA,live,699381,931282,4,2,3065,1961,poor,SFH,vacant,REO,74,investor
+473,12859,GA,online,433901,564219,4,1,2035,1985,poor,condo,tenant,pre-foreclosure,99,investor
+474,76708,FL,online,680303,744924,2,3,1688,2019,good,townhome,vacant,auction day,91,individual
+475,95644,NV,live,591857,677221,3,4,3919,1993,average,SFH,vacant,auction day,56,investor
+476,89204,GA,online,299095,344982,4,4,2311,2000,good,townhome,tenant,auction day,66,investor
+477,95399,NY,live,683727,748408,3,4,3381,1977,average,townhome,vacant,auction day,43,individual
+478,60422,TX,live,98696,121222,2,1,3871,2013,good,condo,tenant,auction day,79,individual
+479,76723,FL,online,523689,573030,1,1,2537,1991,average,townhome,tenant,pre-foreclosure,70,individual
+480,45634,NC,live,683261,769963,2,1,3736,1960,average,condo,vacant,pre-foreclosure,106,investor
+481,85993,GA,live,323618,445743,1,1,2721,1964,good,SFH,tenant,REO,114,individual
+482,89820,GA,live,496817,677625,2,3,3683,1995,poor,SFH,tenant,REO,79,individual
+483,91883,TX,online,266712,370511,3,3,1069,1987,average,SFH,vacant,auction day,98,investor
+484,43831,NY,online,585240,624678,5,3,3635,1983,poor,SFH,vacant,pre-foreclosure,112,individual
+485,60556,GA,live,466406,607319,2,2,909,1981,good,townhome,vacant,REO,83,individual
+486,78099,AZ,live,770004,846540,3,2,2693,1985,average,SFH,tenant,REO,120,investor
+487,89750,NV,online,88944,123003,5,1,3225,2000,average,SFH,vacant,auction day,59,investor
+488,27793,AZ,live,482136,617707,3,2,1258,1974,average,condo,vacant,pre-foreclosure,55,investor
+489,85677,NV,live,259733,281130,2,1,2513,1981,poor,SFH,vacant,REO,21,individual
+490,89204,AZ,live,713897,846891,2,2,1199,2000,average,condo,vacant,auction day,21,individual
+491,34944,AZ,online,614867,767360,1,3,2155,2010,average,condo,tenant,pre-foreclosure,20,investor
+492,60422,CA,online,157698,186737,5,3,2184,2005,good,SFH,tenant,pre-foreclosure,28,individual
+493,33432,TX,live,641776,696707,5,1,1223,1985,average,SFH,tenant,pre-foreclosure,26,individual
+494,76708,NY,online,561560,767932,1,2,1935,1981,good,townhome,tenant,pre-foreclosure,43,individual
+495,13647,TX,online,789824,975131,1,3,1468,1985,good,condo,tenant,REO,37,investor
+496,91883,OH,online,112018,120365,3,1,2050,2012,average,SFH,tenant,auction day,61,investor
+497,32888,CA,online,741378,864707,3,3,2974,1965,average,townhome,vacant,pre-foreclosure,55,investor
+498,34316,NV,live,508053,608420,2,2,3147,2015,average,SFH,tenant,pre-foreclosure,37,individual
+499,27188,IL,online,724087,815080,1,4,1578,1992,good,condo,tenant,pre-foreclosure,29,investor
+500,27959,AZ,online,726594,914741,3,3,3479,1965,average,condo,vacant,pre-foreclosure,34,individual
+501,91883,NC,online,225233,276561,1,2,3195,1994,poor,townhome,tenant,REO,103,individual
+502,14259,OH,live,464075,545620,1,3,3678,1981,average,condo,vacant,REO,30,individual
+503,60633,NY,live,771406,1039382,1,3,973,1971,average,SFH,tenant,REO,61,investor
+504,85593,NC,live,267141,307015,2,1,2777,1994,average,townhome,tenant,pre-foreclosure,70,investor
+505,45313,NC,live,93319,126369,4,1,2535,2015,poor,SFH,vacant,auction day,29,individual
+506,86035,NY,online,641458,825833,5,3,2536,2009,good,townhome,vacant,auction day,110,individual
+507,85143,IL,live,183014,243406,3,1,1889,2011,good,condo,tenant,REO,36,investor
+508,33399,NY,live,287310,372790,2,4,3198,2003,good,condo,vacant,auction day,34,individual
+509,43064,CA,live,166369,195621,4,4,2611,2010,good,townhome,vacant,pre-foreclosure,22,investor
+510,30344,NV,live,124055,144372,5,3,1753,1986,good,townhome,vacant,pre-foreclosure,47,investor
+511,89454,IL,live,493244,631177,3,1,3349,1965,poor,townhome,vacant,pre-foreclosure,17,individual
+512,12859,NV,online,327939,433626,5,4,1087,1985,average,townhome,vacant,REO,56,investor
+513,60456,GA,online,401059,530920,4,2,2534,2000,good,townhome,vacant,auction day,8,individual
+514,33432,CA,live,604591,840731,3,3,2428,1987,poor,SFH,tenant,pre-foreclosure,65,investor
+515,28150,NY,live,669505,778215,2,4,3658,1973,average,townhome,tenant,auction day,86,individual
+516,13647,NV,online,56019,70445,3,4,3236,2012,good,SFH,vacant,REO,91,individual
+517,43064,AZ,online,330458,434827,5,1,1480,2019,average,townhome,tenant,auction day,81,individual
+518,45313,NY,live,643569,823004,4,2,1703,1995,poor,condo,tenant,auction day,111,individual
+519,75968,NC,online,94274,112859,3,1,1376,1987,average,SFH,vacant,pre-foreclosure,50,investor
+520,85993,FL,online,170925,202817,1,3,3492,2001,good,townhome,vacant,auction day,8,investor
+521,11710,IL,online,467048,638074,1,1,2784,1977,poor,condo,tenant,pre-foreclosure,48,individual
+522,90480,AZ,live,670010,802542,3,1,995,2011,average,SFH,vacant,pre-foreclosure,16,investor
+523,89204,NY,live,708573,774915,3,1,3024,1965,average,townhome,vacant,pre-foreclosure,35,investor
+524,77014,CA,online,84971,95157,5,2,3708,2002,good,SFH,tenant,pre-foreclosure,112,investor
+525,89011,AZ,live,701883,780267,4,2,1466,1999,average,condo,vacant,pre-foreclosure,41,individual
+526,44782,NY,online,450586,513589,4,4,1818,1984,good,SFH,tenant,auction day,38,investor
+527,89011,FL,live,636458,763208,5,4,2904,2018,good,SFH,vacant,auction day,19,investor
+528,89843,NV,live,327356,419554,4,2,2320,1982,average,townhome,vacant,auction day,29,investor
+529,34345,IL,online,176352,193088,4,4,3474,1989,good,townhome,vacant,auction day,106,individual
+530,11710,TX,online,496739,657246,3,3,3183,2003,average,townhome,tenant,auction day,82,individual
+531,44332,TX,live,733518,901900,3,2,2046,1966,poor,townhome,vacant,pre-foreclosure,32,investor
+532,92403,AZ,live,145849,165786,3,4,1630,1970,poor,SFH,vacant,REO,100,investor
+533,89139,CA,online,570076,606448,5,3,2268,2007,average,townhome,vacant,auction day,49,individual
+534,61395,AZ,live,611355,826451,3,4,1551,2001,poor,townhome,vacant,auction day,91,investor
+535,34380,GA,online,667780,778300,4,1,2838,2000,good,condo,vacant,auction day,82,individual
+536,61395,NC,live,227173,257947,2,4,1836,1977,average,SFH,tenant,REO,9,investor
+537,31999,FL,online,153946,178934,4,4,981,1983,poor,SFH,tenant,auction day,64,investor
+538,43975,NC,live,430081,573517,5,1,3300,2011,poor,townhome,tenant,pre-foreclosure,116,investor
+539,30344,NC,live,299098,398127,5,3,1997,1969,average,condo,vacant,auction day,83,individual
+540,31833,GA,live,533044,574595,3,3,2163,1999,good,condo,vacant,REO,106,individual
+541,94373,NY,live,163585,176634,3,2,1319,1963,average,SFH,vacant,pre-foreclosure,64,investor
+542,45634,GA,live,416545,530781,2,4,1183,2014,good,townhome,vacant,auction day,52,individual
+543,89480,AZ,live,475426,610762,4,2,3918,2013,average,SFH,tenant,auction day,28,investor
+544,31999,NY,online,116984,161637,1,2,3627,1975,poor,SFH,tenant,REO,33,investor
+545,76482,NC,live,318048,366870,1,2,1734,2012,average,SFH,tenant,auction day,68,investor
+546,27653,OH,online,710894,777437,5,3,2715,1989,average,SFH,tenant,auction day,72,individual
+547,32888,NY,online,426791,452354,3,3,1751,1962,good,SFH,tenant,pre-foreclosure,5,individual
+548,76723,FL,online,556421,757494,1,4,3438,1994,average,townhome,tenant,REO,90,investor
+549,92162,GA,online,230615,279343,3,3,1680,1980,good,SFH,tenant,auction day,78,investor
+550,44755,OH,live,519062,619901,2,3,2610,2010,average,townhome,vacant,auction day,34,investor
+551,12595,TX,online,480905,624640,4,2,942,2015,good,SFH,tenant,REO,67,investor
+552,14259,NC,online,462233,610386,4,4,3604,1965,good,condo,vacant,pre-foreclosure,34,individual
+553,32888,NY,online,574765,800832,5,4,3422,2017,average,condo,tenant,pre-foreclosure,11,investor
+554,76708,AZ,online,372621,392989,2,3,2463,1992,average,townhome,vacant,auction day,14,individual
+555,30344,OH,online,185631,255540,4,4,2675,1968,poor,townhome,vacant,pre-foreclosure,71,investor
+556,85593,OH,live,131926,166268,4,3,1460,1997,good,townhome,vacant,REO,62,individual
+557,61395,NV,online,129723,161448,4,4,3524,1977,average,townhome,vacant,REO,35,individual
+558,85143,NY,live,189956,231249,3,3,2970,2009,average,condo,vacant,auction day,14,individual
+559,31999,NV,live,634966,867128,2,4,3244,2004,good,condo,tenant,auction day,113,individual
+560,85107,NC,live,57725,74214,5,4,2504,1964,average,townhome,vacant,auction day,63,investor
+561,31968,OH,online,571924,663806,1,2,2093,1971,average,SFH,vacant,auction day,17,individual
+562,14259,NC,online,731586,798123,3,4,3899,1985,good,condo,vacant,pre-foreclosure,119,individual
+563,30228,GA,online,220084,307401,3,2,2324,2002,poor,townhome,tenant,pre-foreclosure,36,investor
+564,86517,TX,online,161867,211584,2,1,1487,1988,good,SFH,tenant,auction day,24,individual
+565,89820,AZ,live,713298,766882,3,2,3340,1986,good,SFH,tenant,REO,54,investor
+566,33399,NV,live,753608,862374,4,4,3097,1973,average,condo,vacant,REO,115,investor
+567,86035,OH,online,584111,743355,5,3,3243,1988,average,townhome,tenant,REO,57,individual
+568,60422,NV,online,745313,1014105,5,4,3365,2018,average,SFH,tenant,REO,81,individual
+569,76482,IL,live,293610,361369,1,1,1370,2002,good,SFH,vacant,auction day,6,investor
+570,34734,IL,live,63275,72086,4,2,1664,2000,average,townhome,tenant,pre-foreclosure,75,investor
+571,31498,FL,online,489199,675157,1,3,2855,1998,good,SFH,tenant,pre-foreclosure,56,investor
+572,32471,FL,online,383326,473989,1,4,930,1977,average,townhome,tenant,pre-foreclosure,30,individual
+573,27959,IL,live,383412,514243,3,3,3787,2004,poor,townhome,vacant,auction day,50,investor
+574,89204,OH,live,209300,261855,2,2,1738,2009,average,condo,tenant,REO,79,investor
+575,45634,AZ,live,312213,368720,1,4,3699,1981,good,condo,vacant,auction day,15,investor
+576,12595,NC,live,570882,746638,2,3,2804,2016,good,condo,tenant,auction day,85,investor
+577,94373,NV,live,170499,217249,5,1,3117,1964,good,condo,vacant,pre-foreclosure,64,individual
+578,44782,CA,online,167420,188035,5,3,1440,2020,average,condo,vacant,REO,63,individual
+579,27653,NY,live,634564,777282,1,1,3958,2015,good,townhome,tenant,auction day,110,individual
+580,44213,NY,live,437089,559385,3,1,2882,2018,poor,SFH,vacant,pre-foreclosure,106,investor
+581,32888,AZ,online,539291,700835,2,2,3700,1975,good,condo,tenant,REO,104,individual
+582,44782,OH,online,465726,561740,4,3,1743,1998,good,SFH,tenant,pre-foreclosure,83,investor
+583,44782,OH,online,121260,162292,5,3,3300,1961,average,condo,tenant,REO,51,investor
+584,44332,IL,online,787477,1038066,3,4,1583,2000,poor,condo,tenant,pre-foreclosure,52,investor
+585,27897,AZ,online,480727,533626,4,4,1351,2010,good,townhome,tenant,REO,25,investor
+586,60456,NV,live,299226,379252,5,1,1828,1999,poor,townhome,vacant,pre-foreclosure,54,individual
+587,33399,NV,online,222310,256660,2,1,3687,1976,good,condo,tenant,auction day,12,individual
+588,31498,OH,online,791834,902543,2,1,3894,1990,good,townhome,tenant,auction day,60,individual
+589,11710,OH,online,362079,431621,4,3,3208,1980,average,condo,tenant,auction day,47,individual
+590,27793,NY,online,712348,812662,3,3,2056,1983,poor,condo,tenant,pre-foreclosure,31,investor
+591,89492,NY,online,698142,736286,2,1,2948,2006,poor,townhome,vacant,auction day,95,individual
+592,89454,FL,online,536707,575505,5,3,1141,1985,average,SFH,vacant,REO,44,individual
+593,14259,TX,online,56433,63607,2,3,1270,1978,average,SFH,tenant,pre-foreclosure,45,investor
+594,85107,NC,online,245414,319974,3,3,3296,2011,average,SFH,vacant,pre-foreclosure,110,individual
+595,14259,FL,live,602799,692378,4,1,3660,1999,average,SFH,tenant,pre-foreclosure,14,individual
+596,34944,CA,online,522333,670208,5,1,1921,1990,average,SFH,vacant,auction day,112,investor
+597,86035,IL,online,489448,542325,1,3,3364,1968,average,SFH,tenant,REO,90,investor
+598,10523,OH,live,691105,769365,2,4,1057,2016,average,townhome,tenant,REO,29,investor
+599,89459,OH,online,540041,600016,3,4,3536,1978,poor,SFH,tenant,pre-foreclosure,80,individual
+600,92403,GA,online,228029,314817,1,4,3464,2003,average,condo,vacant,REO,78,individual
+601,27219,AZ,live,791057,1099565,2,1,2828,1994,poor,SFH,vacant,pre-foreclosure,87,individual
+602,27219,NV,live,93731,111527,5,2,807,1985,good,SFH,tenant,pre-foreclosure,74,investor
+603,30736,OH,online,398179,465579,1,3,3544,1990,average,SFH,vacant,auction day,57,investor
+604,31883,TX,live,630162,830583,4,1,3328,2018,poor,condo,vacant,auction day,17,individual
+605,60870,AZ,live,303784,339647,4,2,2557,1970,good,townhome,vacant,auction day,117,investor
+606,33916,NC,live,340897,413960,4,2,3890,1985,average,SFH,tenant,auction day,91,investor
+607,92403,CA,online,186282,225488,1,3,2534,2010,average,SFH,tenant,pre-foreclosure,113,investor
+608,33432,OH,live,539282,585830,2,3,3408,1960,average,townhome,tenant,REO,53,investor
+609,60274,GA,live,478998,658821,1,4,3568,1987,average,townhome,vacant,REO,20,individual
+610,27188,CA,online,341470,421839,5,1,3964,1990,average,condo,tenant,REO,44,investor
+611,61052,TX,online,72995,85949,3,1,2505,1963,average,townhome,vacant,REO,78,individual
+612,27653,NV,live,505081,616345,3,3,3299,1991,average,SFH,vacant,auction day,118,investor
+613,12859,AZ,live,179139,203775,4,4,1002,1986,average,condo,tenant,REO,61,investor
+614,34734,TX,online,791383,842198,1,4,3668,1996,average,townhome,tenant,REO,25,investor
+615,43831,OH,live,414163,471052,5,3,3172,1970,poor,townhome,tenant,pre-foreclosure,46,individual
+616,95399,GA,online,759754,915643,3,4,1871,2012,poor,SFH,tenant,pre-foreclosure,22,investor
+617,77014,NV,live,183171,210966,3,1,2761,1973,good,condo,tenant,pre-foreclosure,66,individual
+618,28075,AZ,live,769922,925075,5,1,3117,2000,poor,townhome,vacant,pre-foreclosure,85,individual
+619,45824,IL,live,282320,314571,1,1,1853,1988,average,SFH,vacant,REO,10,investor
+620,90769,NC,online,172872,186424,3,3,3400,1968,good,townhome,tenant,pre-foreclosure,92,investor
+621,43975,TX,online,772969,882073,2,1,1934,2006,good,condo,tenant,REO,67,individual
+622,34734,GA,online,275138,345791,4,2,2496,1979,average,condo,vacant,auction day,68,individual
+623,32471,AZ,online,734046,831308,3,3,1236,1963,poor,townhome,vacant,pre-foreclosure,88,individual
+624,89492,OH,live,375153,522118,4,4,2896,1975,good,condo,tenant,pre-foreclosure,106,individual
+625,27219,AZ,online,684248,833043,1,4,1994,1973,good,condo,tenant,pre-foreclosure,71,investor
+626,34380,IL,online,56739,66180,3,4,2582,1990,average,townhome,vacant,pre-foreclosure,69,investor
+627,30344,AZ,live,494195,653240,5,3,2316,1994,poor,SFH,vacant,auction day,53,individual
+628,43975,GA,live,677506,817396,3,3,1331,1969,average,townhome,tenant,pre-foreclosure,91,individual
+629,27959,CA,live,108290,114522,4,4,3896,2007,poor,townhome,vacant,pre-foreclosure,100,individual
+630,61052,NV,live,390705,477469,2,4,3026,2001,good,townhome,tenant,REO,105,investor
+631,89459,FL,online,446320,559602,5,2,1540,1970,good,SFH,vacant,REO,90,individual
+632,45313,NC,live,356081,473260,1,1,1881,1988,good,SFH,vacant,REO,87,individual
+633,79484,TX,online,774086,879905,2,1,1502,1963,good,condo,tenant,pre-foreclosure,40,individual
+634,27959,CA,live,676933,808903,2,1,2437,2016,good,condo,vacant,pre-foreclosure,58,individual
+635,27653,GA,live,567011,725028,5,2,3390,2013,average,townhome,tenant,pre-foreclosure,43,individual
+636,86515,NY,live,760708,1029811,5,3,3058,1994,average,condo,vacant,pre-foreclosure,78,investor
+637,27959,FL,online,519021,638026,3,1,832,1975,average,SFH,tenant,REO,27,investor
+638,31833,GA,online,94503,124308,3,1,1318,1988,good,condo,tenant,auction day,100,investor
+639,61395,NC,live,660152,760654,3,4,3906,1981,poor,townhome,vacant,auction day,118,investor
+640,89480,NY,online,221175,307523,2,1,2966,1994,average,townhome,tenant,pre-foreclosure,116,investor
+641,27188,NV,online,104602,144337,2,1,1506,1964,good,condo,vacant,pre-foreclosure,42,investor
+642,32888,NC,live,150052,157874,2,1,1111,1967,average,SFH,tenant,REO,69,investor
+643,34345,FL,online,118764,151087,1,2,3817,1972,good,townhome,tenant,pre-foreclosure,98,investor
+644,85677,GA,live,618188,822757,1,2,3041,1990,poor,townhome,vacant,pre-foreclosure,20,investor
+645,27219,NY,live,195423,231314,2,3,1904,2007,good,townhome,vacant,auction day,47,individual
+646,76708,GA,live,600925,784443,4,3,1268,1960,average,condo,tenant,pre-foreclosure,59,individual
+647,89011,IL,live,645246,684571,3,4,1778,2019,average,SFH,tenant,REO,118,individual
+648,76482,NC,online,566751,759191,4,3,2204,2004,average,townhome,vacant,auction day,47,investor
+649,95399,TX,live,362003,443052,2,4,2721,1978,average,townhome,tenant,auction day,93,investor
+650,89454,IL,live,511694,656339,1,1,3433,1968,good,condo,vacant,REO,36,individual
+651,86035,CA,online,702447,975179,1,1,1242,1982,average,townhome,vacant,auction day,11,investor
+652,89480,OH,online,744402,845854,5,2,2030,2009,poor,SFH,tenant,auction day,101,individual
+653,92403,OH,live,796465,840624,1,3,3647,1990,average,condo,vacant,REO,68,individual
+654,85649,CA,live,725105,783795,1,4,3342,1970,average,SFH,vacant,REO,30,individual
+655,13839,GA,online,682683,804501,1,3,3626,1979,average,condo,vacant,REO,120,individual
+656,45824,OH,online,550544,636104,5,4,3181,1963,average,condo,vacant,pre-foreclosure,40,individual
+657,86517,GA,live,700834,888114,2,4,2975,1988,average,condo,vacant,auction day,29,individual
+658,44332,FL,online,314678,384097,4,2,1937,2001,average,townhome,tenant,REO,46,investor
+659,94945,FL,online,305795,377330,4,1,2347,1985,average,SFH,tenant,pre-foreclosure,8,individual
+660,95399,NY,live,688651,842450,4,1,1542,1985,good,condo,vacant,auction day,119,investor
+661,14157,GA,live,252433,281821,2,2,1091,2009,good,SFH,vacant,auction day,114,individual
+662,28075,NY,online,635279,843271,5,4,2039,2014,average,townhome,vacant,REO,103,investor
+663,44332,NY,online,735411,830337,4,3,3087,1990,poor,SFH,vacant,auction day,20,investor
+664,85143,NC,live,534216,665339,3,1,1894,1965,poor,SFH,vacant,REO,95,individual
+665,95399,TX,live,576575,622895,1,4,3484,2020,average,condo,tenant,auction day,75,investor
+666,85677,FL,online,56533,63318,1,4,1313,1996,poor,townhome,tenant,REO,38,investor
+667,31883,NY,online,268881,374619,5,1,1901,2015,good,townhome,tenant,REO,112,individual
+668,11710,GA,live,572747,714016,4,2,2098,2017,average,condo,vacant,auction day,25,investor
+669,33916,NY,live,135169,161422,5,2,2140,1984,poor,condo,tenant,REO,60,investor
+670,89454,TX,online,168350,212118,2,4,3805,1963,poor,SFH,vacant,auction day,95,investor
+671,27653,NY,online,171008,226102,3,4,3483,1994,good,SFH,vacant,REO,78,investor
+672,43064,GA,online,482772,585911,5,2,2128,2012,average,SFH,vacant,pre-foreclosure,62,investor
+673,31883,AZ,online,100629,108839,1,3,3774,2008,good,townhome,vacant,auction day,45,individual
+674,14157,GA,online,273291,309974,5,1,3729,2020,poor,condo,vacant,auction day,104,individual
+675,13647,NY,live,198801,224988,3,4,2405,2000,good,townhome,tenant,auction day,19,investor
+676,89492,NV,online,73544,77807,5,2,3371,1990,good,SFH,vacant,auction day,66,investor
+677,76482,NY,live,771808,1066551,1,2,2142,2010,average,condo,vacant,auction day,61,investor
+678,28379,NY,online,756253,1013567,2,4,3656,1978,good,condo,tenant,REO,80,individual
+679,27653,IL,online,519351,600802,3,2,3196,2019,average,townhome,tenant,REO,106,investor
+680,44213,NC,live,424339,456247,5,2,1649,1995,average,townhome,vacant,pre-foreclosure,83,individual
+681,77014,NV,live,167284,185880,1,4,1556,1985,average,SFH,vacant,auction day,34,investor
+682,27653,CA,live,614832,854145,3,1,1105,1971,average,condo,vacant,auction day,112,individual
+683,12859,FL,live,137357,186902,4,1,941,2003,poor,townhome,vacant,auction day,34,individual
+684,30736,FL,online,463489,618275,5,2,2964,2013,good,SFH,vacant,REO,102,investor
+685,85677,CA,online,287584,302805,3,4,1409,2001,average,SFH,tenant,pre-foreclosure,76,investor
+686,43975,AZ,live,307688,329080,4,2,1192,2006,good,condo,tenant,pre-foreclosure,6,individual
+687,89011,FL,online,507718,557083,5,3,2875,2017,average,townhome,vacant,REO,68,individual
+688,89750,NV,live,423826,533859,1,1,2643,1966,average,SFH,vacant,pre-foreclosure,36,investor
+689,43064,NC,online,188040,204503,5,4,1406,1985,poor,condo,tenant,pre-foreclosure,44,investor
+690,28379,GA,live,457801,619236,1,3,3357,1973,good,SFH,vacant,auction day,26,individual
+691,14157,OH,live,471206,601602,5,3,2415,1994,average,condo,vacant,auction day,119,individual
+692,90480,NC,online,782143,933772,4,3,2841,2006,good,SFH,tenant,pre-foreclosure,98,investor
+693,90480,GA,online,398582,527357,2,4,2293,2017,average,SFH,vacant,pre-foreclosure,84,investor
+694,27818,FL,online,565018,781645,5,2,3356,1982,average,condo,vacant,auction day,117,investor
+695,30720,FL,online,386395,475726,5,2,3525,2004,good,condo,tenant,pre-foreclosure,5,individual
+696,28075,NY,live,181954,249338,2,2,1193,2018,good,townhome,tenant,auction day,53,individual
+697,30720,NV,online,593222,690416,5,2,3130,1976,average,SFH,vacant,REO,24,individual
+698,85107,TX,live,783186,1045095,3,1,945,1994,poor,SFH,vacant,auction day,25,individual
+699,60556,FL,live,788775,956412,2,2,3756,2002,poor,SFH,vacant,pre-foreclosure,106,investor
+700,77014,GA,online,95622,126051,4,1,3072,1977,average,townhome,vacant,auction day,74,individual
+701,10523,AZ,online,735263,773463,5,4,3686,2012,average,condo,tenant,REO,90,individual
+702,77611,NY,live,495286,572797,2,2,2310,2009,good,condo,tenant,auction day,112,individual
+703,60274,NY,live,554464,632374,3,4,1415,1976,average,condo,tenant,pre-foreclosure,84,individual
+704,10523,GA,online,698726,770289,3,1,3957,2017,average,condo,tenant,auction day,30,individual
+705,13839,FL,online,304530,374245,1,3,3723,1980,average,townhome,vacant,REO,90,investor
+706,14586,NC,online,276916,319898,1,1,1724,2009,good,condo,tenant,REO,71,investor
+707,27959,IL,live,142675,159499,1,3,1724,2009,good,SFH,tenant,REO,20,investor
+708,85993,CA,online,232003,284833,3,4,1864,1960,average,SFH,vacant,auction day,5,individual
+709,32888,AZ,online,718972,779994,2,1,1970,2009,good,townhome,vacant,auction day,108,investor
+710,86515,OH,live,747088,805170,5,3,3493,1976,average,condo,tenant,REO,46,individual
+711,77014,NY,live,134290,158199,3,4,3939,2016,average,condo,tenant,pre-foreclosure,56,investor
+712,27653,GA,live,87820,115390,3,2,905,1969,good,condo,tenant,pre-foreclosure,112,investor
+713,31498,NV,online,500271,604322,4,4,3256,2011,average,SFH,tenant,REO,25,individual
+714,30736,GA,live,509838,538541,2,2,3844,2009,good,townhome,tenant,REO,49,individual
+715,31999,OH,online,151268,177788,1,1,1406,1976,average,townhome,vacant,auction day,53,individual
+716,92162,GA,online,229618,270692,3,3,1457,1969,average,condo,vacant,REO,70,investor
+717,27818,NC,live,146618,198235,2,2,2980,1968,good,condo,vacant,REO,120,investor
+718,12859,TX,online,500900,676979,3,1,1351,1981,good,SFH,vacant,REO,61,investor
+719,44332,FL,online,54105,73439,2,4,930,1993,average,SFH,tenant,pre-foreclosure,62,individual
+720,76708,AZ,online,204407,243653,3,2,3442,1995,average,townhome,vacant,pre-foreclosure,111,investor
+721,77611,NV,live,55195,76250,4,1,2524,1973,good,townhome,tenant,pre-foreclosure,92,individual
+722,86515,TX,live,707524,836606,1,3,3774,1985,average,SFH,tenant,auction day,114,investor
+723,86517,CA,online,277128,333065,2,1,3846,1978,good,condo,tenant,auction day,93,investor
+724,34380,CA,live,733563,822399,5,4,2396,2012,average,SFH,vacant,pre-foreclosure,90,individual
+725,14259,NC,online,731140,877597,4,4,1634,2007,average,SFH,vacant,auction day,7,investor
+726,34316,OH,live,390090,486803,4,1,2340,1982,average,condo,tenant,pre-foreclosure,13,individual
+727,13839,NC,online,200781,236967,1,1,3166,1975,poor,SFH,tenant,pre-foreclosure,79,investor
+728,33432,AZ,online,56664,78980,2,3,3828,1974,poor,townhome,tenant,pre-foreclosure,46,investor
+729,43064,GA,online,251105,337152,1,1,839,2016,good,townhome,vacant,auction day,115,individual
+730,31498,AZ,online,188456,258989,1,4,882,2020,average,SFH,tenant,auction day,20,individual
+731,14157,GA,live,374544,449409,1,4,2450,2019,good,townhome,tenant,pre-foreclosure,13,investor
+732,89139,NC,online,518655,569928,5,1,3345,2006,good,townhome,vacant,auction day,23,individual
+733,85107,CA,online,314710,406861,5,2,1888,1967,average,condo,tenant,REO,31,investor
+734,95444,AZ,live,674614,879656,4,3,1731,1963,average,SFH,vacant,auction day,10,investor
+735,31833,TX,online,442651,547720,3,2,3370,1978,average,condo,tenant,REO,28,investor
+736,12739,NY,online,389726,419268,1,3,1786,2004,average,condo,vacant,auction day,92,individual
+737,27793,IL,online,354737,407553,1,4,896,1990,good,condo,tenant,pre-foreclosure,63,individual
+738,27219,GA,live,551852,580736,4,4,996,2008,average,condo,tenant,pre-foreclosure,99,investor
+739,14586,NC,online,675687,875204,4,3,1829,1963,average,townhome,tenant,pre-foreclosure,93,investor
+740,85107,TX,live,368805,494911,1,1,2501,1967,average,condo,tenant,REO,108,individual
+741,75968,NV,online,178697,210580,4,2,3785,2003,average,townhome,tenant,REO,75,investor
+742,85677,NV,online,588889,790470,1,4,1080,1995,good,SFH,tenant,auction day,46,investor
+743,27793,NY,online,339838,401365,4,3,2105,2013,average,townhome,tenant,auction day,15,individual
+744,89139,NC,live,285545,342577,3,4,2518,2018,average,townhome,tenant,pre-foreclosure,86,individual
+745,34734,CA,live,421635,532824,5,4,2141,2014,poor,condo,tenant,REO,87,individual
+746,11710,TX,live,424372,550338,4,3,1163,2015,good,condo,tenant,REO,119,individual
+747,91883,GA,online,343122,452780,3,3,875,1963,average,condo,tenant,auction day,31,investor
+748,85593,NY,online,462849,613794,5,1,805,2002,poor,condo,vacant,pre-foreclosure,50,investor
+749,86035,OH,online,83524,103977,4,4,944,1990,average,SFH,vacant,pre-foreclosure,116,investor
+750,32888,IL,online,628904,759192,4,1,1181,1989,average,condo,vacant,pre-foreclosure,93,individual
+751,60422,GA,online,222819,294924,3,2,1859,1969,good,condo,tenant,REO,37,investor
+752,89843,NC,online,591925,671583,2,1,3563,1993,average,condo,tenant,REO,6,individual
+753,60696,OH,online,197793,224534,1,3,3501,1988,good,townhome,vacant,auction day,106,individual
+754,34734,NV,live,548461,633688,4,3,2227,1972,good,SFH,tenant,REO,103,individual
+755,27219,AZ,online,195269,256059,5,2,3013,2001,good,townhome,vacant,auction day,106,investor
+756,92403,NY,live,668808,912552,3,4,1962,2001,good,condo,tenant,pre-foreclosure,119,individual
+757,89750,TX,online,757724,1025573,4,2,3730,2004,average,condo,vacant,auction day,67,investor
+758,90769,NC,online,405279,540658,5,1,2920,2004,average,townhome,tenant,REO,81,individual
+759,94373,NC,live,239883,282449,2,1,2042,1965,average,townhome,tenant,REO,110,investor
+760,89011,CA,live,333070,423924,5,1,2693,2020,good,SFH,vacant,pre-foreclosure,60,investor
+761,34734,GA,online,685845,947997,5,3,3906,1991,poor,condo,tenant,auction day,33,individual
+762,89820,IL,online,189671,206935,4,2,2523,2015,average,SFH,vacant,pre-foreclosure,104,individual
+763,28150,NC,live,718951,854852,3,2,878,1993,average,condo,tenant,REO,112,investor
+764,28379,NC,live,337464,424879,5,4,2108,1985,good,condo,tenant,REO,26,investor
+765,85677,NY,live,658755,737677,3,2,2404,2010,good,condo,vacant,auction day,20,investor
+766,77014,OH,online,248329,279644,5,3,985,2011,average,condo,vacant,pre-foreclosure,71,individual
+767,78099,CA,online,649934,886791,1,3,3277,1980,average,condo,tenant,REO,105,individual
+768,28379,CA,online,411605,487253,3,3,2982,2012,poor,townhome,tenant,REO,105,individual
+769,76723,AZ,live,340543,380778,3,4,2489,1969,average,townhome,tenant,auction day,53,individual
+770,30280,AZ,online,448977,581856,3,2,2265,1989,poor,SFH,vacant,REO,88,investor
+771,95444,NY,live,236254,286380,4,1,1055,1988,poor,SFH,vacant,pre-foreclosure,104,investor
+772,14586,AZ,live,434678,585108,2,1,3797,2005,average,townhome,vacant,auction day,60,investor
+773,92403,FL,live,282208,339328,3,2,1244,1969,average,townhome,vacant,auction day,95,individual
+774,86035,CA,live,547454,757552,3,4,1789,2015,poor,condo,tenant,auction day,89,individual
+775,44213,NC,live,428665,489077,1,4,1723,2011,average,townhome,vacant,auction day,94,individual
+776,34345,AZ,live,454172,481289,2,1,2402,1965,average,SFH,vacant,pre-foreclosure,31,investor
+777,28150,TX,live,310221,412140,5,2,2221,1979,average,townhome,vacant,pre-foreclosure,8,investor
+778,44755,NV,online,276229,294100,2,3,1615,2007,average,townhome,vacant,pre-foreclosure,10,individual
+779,77503,FL,online,568954,699747,4,2,1257,1982,poor,condo,tenant,pre-foreclosure,60,individual
+780,77417,AZ,live,476932,625033,3,2,3263,2016,good,townhome,tenant,auction day,9,investor
+781,12859,GA,live,394144,532691,3,1,3430,1990,average,condo,vacant,REO,37,investor
+782,92162,NY,live,554014,603691,1,3,1695,1969,average,SFH,vacant,pre-foreclosure,7,individual
+783,89459,CA,online,788755,998922,1,3,1611,2001,average,townhome,tenant,pre-foreclosure,32,investor
+784,33399,IL,live,209799,292600,2,3,2277,1979,average,condo,vacant,pre-foreclosure,30,individual
+785,30344,OH,online,224524,265439,3,4,1620,2006,poor,SFH,tenant,REO,115,individual
+786,62988,TX,live,364705,453128,5,4,990,2015,average,SFH,vacant,REO,102,investor
+787,62988,NV,live,628321,693410,3,3,999,1994,average,SFH,tenant,pre-foreclosure,90,investor
+788,31968,IL,online,622090,720728,2,1,1206,1988,average,SFH,tenant,auction day,86,investor
+789,30720,IL,online,240101,257333,5,1,1535,1977,average,condo,vacant,pre-foreclosure,107,individual
+790,89139,NY,online,267740,339254,4,3,1523,1998,average,townhome,tenant,auction day,93,investor
+791,77417,AZ,live,558664,596929,3,4,1051,1986,average,SFH,tenant,auction day,53,investor
+792,28150,AZ,online,434564,509812,5,4,1600,2009,good,condo,tenant,auction day,60,investor
+793,33916,NY,online,779831,823090,2,2,2912,1966,average,townhome,tenant,auction day,95,investor
+794,77014,NY,online,345072,433807,4,3,1982,1962,good,SFH,vacant,auction day,102,individual
+795,33916,GA,online,741968,865728,4,4,3211,1967,poor,townhome,tenant,REO,25,individual
+796,27897,NY,online,438230,583572,3,1,2757,1988,poor,SFH,tenant,auction day,44,investor
+797,33399,GA,online,560612,755069,2,1,1920,1990,good,townhome,tenant,REO,33,individual
+798,13839,NY,online,495915,685703,2,2,861,2005,average,condo,vacant,REO,96,individual
+799,28379,OH,online,192669,260459,4,3,3569,2011,good,SFH,vacant,auction day,66,individual
+800,92403,FL,live,264154,353569,4,4,1986,1990,average,condo,vacant,REO,42,individual
+801,89204,TX,live,348894,432216,1,3,1679,1965,average,townhome,vacant,pre-foreclosure,34,investor
+802,85593,TX,online,695178,821481,3,2,1349,1993,good,townhome,tenant,auction day,34,individual
+803,60422,CA,online,597737,646701,1,2,1917,2011,average,townhome,vacant,pre-foreclosure,8,individual
+804,33916,GA,online,418747,444792,2,1,1252,1994,good,townhome,vacant,REO,31,individual
+805,31968,FL,online,445288,575294,4,2,2679,1996,average,condo,tenant,REO,21,investor
+806,91883,IL,live,415678,491764,3,4,2872,1981,average,condo,tenant,REO,17,investor
+807,28150,OH,online,421117,500748,2,4,3808,1989,good,condo,vacant,pre-foreclosure,71,individual
+808,60556,TX,online,605557,829655,1,3,2399,1973,average,townhome,vacant,auction day,70,investor
+809,61395,OH,live,248538,301308,3,3,2302,2004,average,SFH,vacant,REO,119,investor
+810,27219,TX,online,275751,335709,5,2,1926,2010,good,SFH,tenant,pre-foreclosure,93,individual
+811,60274,NV,live,485660,530933,2,1,1213,2019,good,condo,tenant,auction day,66,investor
+812,31968,NC,online,129414,169927,2,4,1496,2019,good,SFH,tenant,REO,70,individual
+813,34380,TX,online,99376,106612,3,2,3331,2001,average,condo,vacant,auction day,45,individual
+814,30344,CA,online,797197,997925,2,2,2713,2004,good,condo,vacant,pre-foreclosure,34,individual
+815,76482,IL,online,192145,203709,5,4,2210,2010,average,townhome,tenant,pre-foreclosure,16,investor
+816,28379,NY,online,271816,367071,1,4,2494,1997,poor,SFH,tenant,auction day,63,investor
+817,34944,OH,live,383068,434431,1,4,3725,1996,good,townhome,vacant,pre-foreclosure,37,investor
+818,89139,FL,live,246825,312537,5,4,2271,1980,average,condo,tenant,pre-foreclosure,45,individual
+819,44755,NC,online,555028,643234,1,3,1523,2005,good,townhome,tenant,REO,15,investor
+820,10523,OH,live,559707,632538,4,3,3985,1997,good,SFH,tenant,pre-foreclosure,51,individual
+821,61395,NY,online,754574,994530,1,4,1511,1974,poor,townhome,tenant,REO,76,individual
+822,76723,NY,live,305364,361121,3,3,2645,2014,good,townhome,vacant,auction day,66,individual
+823,94945,TX,online,674694,802527,2,4,1494,1999,average,SFH,tenant,REO,7,investor
+824,45824,OH,live,480478,567351,3,4,3823,1968,average,SFH,tenant,pre-foreclosure,18,investor
+825,89139,IL,live,351760,402481,2,2,2476,1996,average,condo,vacant,pre-foreclosure,10,individual
+826,45313,NY,live,109985,122149,1,1,2207,1983,good,townhome,tenant,REO,48,individual
+827,89820,FL,live,580810,630320,4,4,2715,2018,average,townhome,vacant,REO,73,individual
+828,30228,GA,online,248649,337069,2,3,2701,1961,good,townhome,tenant,auction day,49,investor
+829,34316,NC,online,299282,354756,3,3,3898,1993,average,SFH,tenant,REO,18,investor
+830,60633,AZ,online,715287,754327,3,3,3389,1965,good,condo,vacant,REO,99,individual
+831,76708,TX,online,127237,160312,3,4,2309,1996,average,condo,vacant,REO,95,individual
+832,89459,OH,online,737541,898109,1,1,2217,2018,average,townhome,tenant,REO,82,individual
+833,14586,AZ,live,393307,511687,2,3,2024,2006,average,SFH,tenant,REO,77,individual
+834,61052,FL,live,79752,96427,1,1,3972,1986,average,townhome,vacant,REO,99,investor
+835,60870,NC,live,506292,590406,5,4,3846,2004,average,townhome,vacant,pre-foreclosure,32,investor
+836,92403,TX,online,780403,870052,1,3,3908,2012,average,SFH,vacant,pre-foreclosure,40,investor
+837,60696,OH,online,741143,985562,4,2,3719,2002,average,townhome,vacant,auction day,92,individual
+838,89139,AZ,live,223545,300295,3,3,3540,1967,average,condo,vacant,pre-foreclosure,91,individual
+839,31968,IL,online,319508,346221,1,3,2942,1985,poor,townhome,vacant,REO,94,individual
+840,77503,CA,online,140159,187168,4,1,3981,2012,average,condo,tenant,REO,85,investor
+841,85649,GA,live,308321,407944,4,3,1389,1990,average,condo,tenant,REO,61,individual
+842,34316,NY,live,628068,822096,1,2,3452,1997,average,SFH,tenant,REO,85,individual
+843,91883,NV,online,591457,709178,1,2,2205,1992,good,townhome,vacant,pre-foreclosure,76,individual
+844,27897,OH,online,262614,287142,3,3,3882,1988,average,townhome,vacant,pre-foreclosure,34,investor
+845,27818,TX,live,529244,598510,2,3,1422,1991,good,townhome,vacant,auction day,76,individual
+846,30736,OH,live,553441,743424,2,4,2707,1978,average,townhome,tenant,auction day,49,individual
+847,28075,OH,live,470101,646927,5,3,1041,1986,average,condo,vacant,auction day,35,individual
+848,95399,TX,online,516481,601439,5,4,2357,1980,good,townhome,tenant,pre-foreclosure,54,investor
+849,86486,NV,live,94919,127030,4,3,3140,2002,good,SFH,vacant,pre-foreclosure,65,investor
+850,90769,AZ,online,669950,755181,3,4,1359,2012,poor,condo,vacant,REO,38,investor
+851,33432,GA,live,260622,311148,2,2,1210,1963,good,townhome,vacant,REO,73,investor
+852,12739,CA,live,331025,418839,3,4,1903,1986,average,condo,vacant,auction day,88,investor
+853,86486,NV,live,729969,938332,2,2,2504,1989,poor,townhome,tenant,REO,105,individual
+854,13647,FL,live,464955,496906,1,1,1540,1999,good,SFH,tenant,REO,6,investor
+855,44755,NY,live,204421,239721,5,2,2613,1990,average,condo,tenant,REO,50,individual
+856,31833,CA,live,648330,686701,3,2,3789,1975,average,townhome,vacant,auction day,33,individual
+857,33916,AZ,online,263939,286397,2,3,1025,1960,average,townhome,vacant,pre-foreclosure,50,investor
+858,62988,OH,online,716543,989132,4,1,2504,1992,average,condo,tenant,REO,81,investor
+859,33432,FL,live,682305,884668,5,1,2993,1963,good,condo,vacant,auction day,8,investor
+860,12595,IL,online,221643,253046,1,4,2210,1980,average,SFH,tenant,pre-foreclosure,94,investor
+861,33916,OH,live,407715,545983,2,4,2021,1993,average,condo,tenant,REO,96,individual
+862,89820,NV,online,705405,849661,4,1,1080,1987,average,condo,vacant,REO,30,investor
+863,61052,NY,live,401096,490896,4,2,3586,1991,good,condo,tenant,pre-foreclosure,56,investor
+864,14586,NC,online,80047,100375,1,1,3945,2004,good,townhome,tenant,auction day,8,investor
+865,13647,NY,online,758166,1031073,2,3,907,1971,good,condo,vacant,auction day,13,individual
+866,30280,NY,live,147542,193730,3,3,844,1973,average,SFH,tenant,auction day,78,investor
+867,28150,GA,online,152817,177728,1,1,952,2017,poor,condo,tenant,pre-foreclosure,91,investor
+868,33432,IL,live,488507,635621,5,1,1132,1965,good,condo,vacant,auction day,25,individual
+869,44782,AZ,live,544404,701329,4,3,3484,1996,poor,townhome,tenant,auction day,43,investor
+870,12739,AZ,online,188824,204588,5,1,1441,2016,good,townhome,tenant,auction day,79,investor
+871,31498,NV,live,89712,107162,5,1,3256,1973,average,townhome,vacant,auction day,6,investor
+872,85107,FL,online,392934,438172,4,4,1203,1985,poor,townhome,tenant,auction day,26,individual
+873,77503,NV,live,784966,847033,3,3,2448,1981,good,townhome,tenant,pre-foreclosure,95,investor
+874,12739,GA,live,245232,299408,3,2,1322,1969,good,townhome,vacant,auction day,106,investor
+875,77417,TX,online,101879,138186,5,4,2022,2007,good,SFH,vacant,auction day,56,individual
+876,89139,IL,online,648527,846880,5,1,3175,2000,good,condo,tenant,REO,89,investor
+877,85993,NC,live,80913,109247,3,1,1329,2010,average,SFH,tenant,REO,58,individual
+878,94945,NC,online,380570,487570,3,4,2239,2011,good,townhome,vacant,auction day,44,individual
+879,28150,AZ,live,613161,821987,3,3,1806,1975,average,condo,tenant,REO,91,individual
+880,13647,AZ,live,628645,688434,1,3,1166,1982,average,condo,tenant,pre-foreclosure,69,investor
+881,90480,OH,live,175779,226442,2,1,3085,2019,poor,SFH,vacant,REO,46,individual
+882,85143,CA,live,73334,96373,1,3,3788,1985,good,townhome,tenant,REO,12,investor
+883,78099,OH,live,782867,852496,4,2,3659,1971,good,townhome,tenant,auction day,14,investor
+884,31968,FL,online,796863,946010,3,4,1760,2001,average,SFH,vacant,REO,36,investor
+885,32888,OH,live,107421,140911,4,1,3205,2003,poor,SFH,vacant,auction day,59,investor
+886,31833,IL,live,52859,59827,3,3,3805,1991,average,SFH,tenant,auction day,88,individual
+887,89139,GA,online,687483,739938,1,3,2679,1978,average,SFH,vacant,pre-foreclosure,97,investor
+888,43064,IL,online,169484,217800,4,4,1810,2003,average,condo,tenant,REO,32,investor
+889,10523,IL,online,162162,210557,2,1,1664,1978,good,townhome,tenant,REO,104,individual
+890,45634,TX,live,598330,656343,1,3,2593,2015,average,condo,tenant,pre-foreclosure,68,investor
+891,60456,GA,online,280182,372151,4,1,1746,1973,good,condo,tenant,REO,63,individual
+892,31999,NY,live,636476,865634,3,4,3605,1993,average,condo,vacant,pre-foreclosure,25,individual
+893,27188,AZ,online,283977,387819,1,4,829,1984,average,condo,tenant,pre-foreclosure,102,individual
+894,92403,GA,online,667424,720568,5,1,3194,1994,poor,condo,tenant,auction day,72,investor
+895,43975,TX,online,328914,403709,3,2,3633,1972,good,SFH,tenant,REO,43,investor
+896,34316,CA,online,695072,869525,1,3,2899,2000,good,SFH,tenant,auction day,64,investor
+897,30228,AZ,online,635513,874605,5,2,3508,1986,poor,SFH,vacant,auction day,115,investor
+898,89454,OH,online,792558,867581,5,3,2279,2004,average,SFH,tenant,auction day,93,individual
+899,28379,TX,online,123444,169034,4,2,1071,2008,good,SFH,tenant,pre-foreclosure,99,investor
+900,12859,TX,live,339617,443219,5,3,2584,2012,good,townhome,tenant,auction day,67,investor
+901,10523,OH,online,116115,147680,1,2,1957,1977,average,condo,vacant,auction day,25,individual
+902,60556,FL,online,109313,131834,4,4,1144,2014,good,townhome,tenant,pre-foreclosure,72,investor
+903,10523,NC,live,483648,626570,3,3,2550,2005,average,condo,tenant,REO,111,individual
+904,85677,NC,online,216101,246539,3,3,2027,1999,average,townhome,vacant,pre-foreclosure,86,investor
+905,45634,IL,live,383226,433177,3,2,2997,1987,poor,condo,vacant,pre-foreclosure,99,investor
+906,86486,NY,live,667407,719728,1,4,1309,2007,good,condo,vacant,REO,15,investor
+907,85649,GA,live,178472,249631,3,3,2914,1987,good,SFH,vacant,pre-foreclosure,92,individual
+908,89820,OH,online,335476,428409,5,2,870,1961,poor,condo,tenant,auction day,70,investor
+909,91883,NV,online,51855,59904,2,1,2155,1960,average,condo,vacant,REO,106,investor
+910,86517,NV,live,599167,636650,4,3,1710,1982,average,townhome,vacant,pre-foreclosure,12,investor
+911,85677,CA,live,157132,179819,5,1,936,1961,good,townhome,tenant,pre-foreclosure,34,investor
+912,60556,OH,live,623549,795707,5,2,1652,1975,average,condo,vacant,REO,75,investor
+913,31498,FL,online,152212,163138,2,1,2751,2007,average,townhome,tenant,auction day,70,individual
+914,28379,FL,live,554711,764096,2,1,2484,1962,poor,condo,tenant,REO,48,investor
+915,32471,NV,live,57837,75435,4,4,3867,1970,average,SFH,vacant,pre-foreclosure,113,individual
+916,86517,CA,online,530811,712838,2,3,1007,1977,poor,townhome,tenant,pre-foreclosure,90,individual
+917,89843,FL,online,684869,759852,3,3,2000,2019,average,condo,tenant,REO,112,individual
+918,60696,NV,online,514470,677288,4,3,2360,2014,poor,condo,tenant,pre-foreclosure,49,individual
+919,94945,NC,live,528278,701385,5,4,3501,1996,poor,SFH,tenant,pre-foreclosure,36,individual
+920,85593,CA,live,626827,705804,3,4,3837,1961,good,townhome,vacant,auction day,21,individual
+921,44782,IL,online,525125,609745,3,2,873,1979,average,townhome,tenant,auction day,55,investor
+922,33916,TX,online,466656,639220,3,4,2250,1976,good,condo,vacant,REO,104,individual
+923,34734,CA,online,127427,164750,5,1,2669,2009,good,condo,tenant,pre-foreclosure,51,investor
+924,27897,NC,live,331800,462928,1,3,3228,2003,good,SFH,tenant,auction day,90,individual
+925,27653,TX,online,132524,147124,3,3,1085,1973,poor,SFH,vacant,auction day,26,individual
+926,95644,NV,live,85021,114741,1,1,3738,1982,average,townhome,tenant,REO,89,investor
+927,60456,NC,live,399098,466140,4,3,1892,1992,average,SFH,vacant,REO,44,investor
+928,89454,NV,live,229955,263299,2,2,2535,2003,average,SFH,tenant,auction day,35,investor
+929,44332,GA,live,780987,921792,2,3,1197,2006,average,SFH,vacant,pre-foreclosure,66,individual
+930,43064,AZ,online,212583,223479,4,3,2132,1963,average,townhome,tenant,pre-foreclosure,30,individual
+931,30280,OH,live,719634,824662,2,2,3101,1992,poor,townhome,tenant,auction day,91,individual
+932,62988,IL,live,212622,277902,2,3,1066,1997,poor,SFH,vacant,auction day,79,individual
+933,31968,IL,online,785172,865092,3,1,1492,1965,poor,townhome,vacant,pre-foreclosure,90,individual
+934,44782,NY,live,645924,858639,4,4,2935,1973,average,SFH,vacant,pre-foreclosure,23,individual
+935,14586,NV,live,722288,999840,1,4,1558,2003,average,SFH,tenant,auction day,83,individual
+936,76708,CA,online,588304,647363,1,2,1231,1978,poor,condo,vacant,REO,97,individual
+937,60696,OH,live,408173,567974,4,3,3555,1986,poor,SFH,vacant,auction day,73,individual
+938,90480,NC,live,665902,705286,4,3,944,1994,good,condo,vacant,pre-foreclosure,53,investor
+939,77611,NV,online,565314,748012,3,1,3221,1965,poor,SFH,vacant,pre-foreclosure,57,individual
+940,30720,OH,online,541164,675696,3,1,1473,1975,good,SFH,vacant,pre-foreclosure,83,individual
+941,85649,CA,live,414055,504406,2,1,3056,1993,average,SFH,vacant,auction day,45,individual
+942,92403,NY,live,438370,576949,4,1,2746,1999,good,townhome,vacant,pre-foreclosure,20,individual
+943,14157,IL,online,216380,299845,1,2,2815,1989,poor,SFH,vacant,REO,7,individual
+944,62988,CA,live,305593,404588,1,1,2580,1962,average,SFH,vacant,REO,12,individual
+945,86486,NV,live,396403,532987,5,4,2196,1977,average,townhome,tenant,REO,49,investor
+946,27219,AZ,online,506580,699397,2,2,3925,2000,average,SFH,tenant,pre-foreclosure,119,individual
+947,75968,TX,online,181144,221513,4,3,3400,1982,average,condo,vacant,REO,24,investor
+948,13647,NV,live,661330,755006,4,3,3143,1976,good,SFH,tenant,auction day,78,investor
+949,31999,NC,online,723756,870833,4,2,1646,1964,poor,townhome,vacant,auction day,13,individual
+950,31999,NV,online,386240,513029,5,4,3210,2007,average,SFH,vacant,REO,67,investor
+951,33432,AZ,live,100396,108932,4,1,3481,1987,average,SFH,tenant,REO,61,individual
+952,79484,NC,live,90251,118348,3,2,2844,1967,average,SFH,tenant,REO,96,investor
+953,77611,OH,online,198537,271089,4,1,3978,2007,good,SFH,tenant,auction day,92,individual
+954,89750,GA,online,424892,522203,4,1,1182,2009,good,condo,tenant,auction day,101,individual
+955,77611,TX,online,785421,861458,5,4,969,1971,average,SFH,tenant,pre-foreclosure,25,investor
+956,34944,FL,live,310838,330650,2,3,3641,1986,average,SFH,tenant,auction day,37,investor
+957,94945,FL,online,732819,820209,2,1,2018,1985,average,condo,vacant,REO,86,investor
+958,30280,NY,live,340743,400189,5,4,3568,2020,average,condo,vacant,pre-foreclosure,96,investor
+959,77503,GA,online,417430,492684,5,2,1638,1999,average,SFH,vacant,pre-foreclosure,81,individual
+960,27959,NC,online,763488,897592,2,3,2728,2013,average,townhome,tenant,auction day,19,investor
+961,60556,IL,live,283696,358813,4,2,1373,2005,poor,SFH,tenant,REO,17,investor
+962,33432,GA,live,258793,288032,2,3,2629,2014,poor,townhome,tenant,REO,7,individual
+963,27959,NC,live,486183,586043,5,3,1543,1966,poor,townhome,vacant,auction day,26,investor
+964,85993,OH,online,130654,142729,5,1,2722,2007,good,townhome,tenant,pre-foreclosure,57,investor
+965,92162,NY,online,164848,195399,2,2,3528,2009,average,condo,vacant,pre-foreclosure,56,investor
+966,43064,GA,online,437960,528286,5,1,1017,1989,poor,SFH,vacant,pre-foreclosure,34,investor
+967,89480,FL,online,472256,618750,5,3,2115,1982,average,condo,tenant,auction day,20,investor
+968,30720,GA,live,354783,387962,2,4,3673,1990,average,townhome,vacant,auction day,104,individual
+969,30736,CA,live,417702,548229,3,2,2943,1978,poor,SFH,tenant,REO,84,individual
+970,89750,CA,live,117755,160476,4,1,3859,1975,poor,SFH,vacant,pre-foreclosure,29,investor
+971,31498,CA,online,259898,351901,2,3,1498,2002,average,condo,vacant,pre-foreclosure,86,investor
+972,27188,GA,live,89359,104880,4,4,2859,2014,average,townhome,vacant,auction day,108,investor
+973,89820,NC,live,616165,755550,1,2,969,1984,good,condo,tenant,REO,93,individual
+974,31999,FL,online,173375,196746,5,4,2915,1977,good,townhome,vacant,auction day,94,individual
+975,34944,NV,online,508907,598190,3,1,3869,2007,poor,SFH,tenant,pre-foreclosure,81,investor
+976,12859,NY,live,624198,839299,2,1,1424,1994,average,condo,vacant,pre-foreclosure,36,investor
+977,77014,CA,online,525532,675891,4,3,815,1978,poor,condo,tenant,auction day,42,individual
+978,61395,OH,live,373669,467557,2,2,3627,1969,average,SFH,vacant,auction day,108,investor
+979,12859,TX,online,315925,354403,2,2,3801,1983,good,SFH,vacant,pre-foreclosure,21,investor
+980,31999,NV,online,791776,942345,5,2,2365,2002,good,SFH,vacant,REO,67,investor
+981,77417,AZ,live,739443,974544,1,3,3503,1980,poor,townhome,vacant,REO,118,individual
+982,28075,AZ,live,696074,972268,5,1,837,1986,average,SFH,tenant,pre-foreclosure,111,individual
+983,86517,NC,online,556921,622039,5,2,1152,2008,average,townhome,vacant,pre-foreclosure,18,individual
+984,27959,TX,online,688862,956959,1,4,2449,2017,good,condo,vacant,auction day,103,investor
+985,32471,AZ,online,450758,508815,5,1,1054,1987,poor,townhome,vacant,REO,40,individual
+986,86517,FL,online,110793,124698,4,1,2222,1977,average,townhome,tenant,REO,37,individual
+987,89750,NV,live,240120,306925,4,4,924,1961,average,SFH,vacant,REO,8,individual
+988,30344,OH,live,646083,770363,1,3,2067,1975,average,SFH,vacant,REO,63,investor
+989,27897,OH,online,462038,544366,1,3,3781,1996,poor,condo,tenant,pre-foreclosure,49,individual
+990,27793,CA,live,166337,224813,1,4,2216,1968,good,townhome,tenant,auction day,51,investor
+991,60456,TX,live,596734,747001,2,1,1898,1997,poor,condo,tenant,pre-foreclosure,48,investor
+992,90480,CA,live,225047,294727,4,4,1170,1985,good,townhome,tenant,REO,114,individual
+993,27818,GA,online,627359,845547,4,2,3759,1980,average,townhome,tenant,pre-foreclosure,8,investor
+994,12595,NY,online,747339,1026959,1,2,2105,1979,good,townhome,tenant,REO,52,individual
+995,32471,TX,online,51041,69100,1,3,1517,1997,poor,condo,tenant,REO,26,investor
+996,14157,OH,online,468377,540633,4,4,2855,1960,average,SFH,tenant,pre-foreclosure,19,individual
+997,90769,NY,online,276593,319477,2,3,3303,1992,average,condo,tenant,REO,77,individual
+998,89139,IL,live,361176,439140,2,3,2541,2003,average,condo,tenant,auction day,29,investor
+999,60274,NV,online,67203,71495,1,2,3924,2004,good,townhome,vacant,pre-foreclosure,12,investor
+1000,32888,NV,online,688288,954646,4,2,1424,1993,poor,SFH,tenant,auction day,8,individual
